@@ -63,8 +63,10 @@ const SVG = {
 
 function visual(p, base, eager) {
   const c = catOf(p.categoria);
-  const img = p.imagen
-    ? `<img src="${esc(/^https?:/.test(p.imagen) ? p.imagen : base + p.imagen)}" alt="${esc(p.nombre)}" ${eager ? "" : 'loading="lazy"'}>`
+  // "imagen" acepta una URL, una ruta en assets/img/ o el código HTML completo que da SiteStripe
+  const src = p.imagen ? ((p.imagen.match(/src=["']([^"']+)["']/) || [])[1] || p.imagen) : "";
+  const img = src
+    ? `<img src="${esc(/^https?:/.test(src) ? src : base + src)}" alt="${esc(p.nombre)}" ${eager ? "" : 'loading="lazy"'}>${p.imagenIlustrativa ? '<span class="ilus">Imagen ilustrativa</span>' : ""}`
     : icon(c.icono);
   return `<div class="card-visual">${img}<span class="tag" title="Número del producto en los vídeos">Nº ${num2(p.numero)}</span></div>`;
 }
