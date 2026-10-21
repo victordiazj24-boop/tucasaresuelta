@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /herramienta.html
+Disallow: /preview.html
+Sitemap: https://www.tucasaresuelta.com/sitemap.xml

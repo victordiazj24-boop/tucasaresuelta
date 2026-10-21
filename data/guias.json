@@ -1,0 +1,26 @@
+[
+  {
+    "ruta": "2026/09/los-10-mejores-productos-para-el-hogar.html",
+    "titulo": "Los 10 mejores productos para el hogar que te facilitan la vida",
+    "descripcion": "10 productos de Amazon muy bien valorados que ahorran tiempo en la cocina, en la limpieza y en el día a día.",
+    "intro": "Hemos reunido 10 productos de Amazon que resuelven problemas reales de casa: cocinar más rápido, limpiar con menos esfuerzo, respirar mejor y tener todo ordenado. Están ordenados por el impacto que tienen en el día a día.",
+    "productos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "fecha": "2026-09-25"
+  },
+  {
+    "ruta": "guias/acabar-con-la-humedad-en-casa.html",
+    "titulo": "Cómo acabar con la humedad y el moho en casa",
+    "descripcion": "Los aparatos que de verdad funcionan contra la humedad, la condensación en las ventanas y el olor a cerrado.",
+    "intro": "La humedad no se arregla con lejía cada dos semanas. Hay que sacar el agua del aire y de los cristales antes de que se convierta en moho. Estos son los productos que lo consiguen.",
+    "productos": [10, 7, 5],
+    "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/cocina-pequena-bien-aprovechada.html",
+    "titulo": "Cocina pequeña: productos para ganar espacio y tiempo",
+    "descripcion": "Sartenes apilables, organizadores y aparatos compactos para sacar el máximo a una cocina pequeña.",
+    "intro": "En una cocina pequeña cada cajón cuenta. Estos productos ocupan poco, sirven para mucho y hacen que cocinar sea más rápido.",
+    "productos": [4, 8, 1, 9],
+    "fecha": "2026-10-21"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "slug": "cocinar-rapido", "nombre": "Cocinar rápido y con poco aceite" },
+  { "slug": "polvo", "nombre": "Polvo y pelos por toda la casa" },
+  { "slug": "humedad", "nombre": "Humedad, moho o ropa que no seca" },
+  { "slug": "alergias", "nombre": "Alergias y malos olores" },
+  { "slug": "espacio", "nombre": "Me falta espacio" },
+  { "slug": "ahorro", "nombre": "Ahorrar luz y tiempo" },
+  { "slug": "ropa", "nombre": "Ropa y sofá con pelusas" },
+  { "slug": "cristales", "nombre": "Cristales y espejos con marcas" }
+]

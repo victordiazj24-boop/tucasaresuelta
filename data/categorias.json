@@ -1,0 +1,7 @@
+[
+  { "slug": "cocina", "nombre": "Cocina", "icono": "cocina", "intro": "Aparatos y utensilios que te ahorran tiempo, aceite y espacio en la cocina." },
+  { "slug": "limpieza", "nombre": "Limpieza", "icono": "limpieza", "intro": "Para limpiar más rápido y con menos esfuerzo: suelos, cristales, ropa y tapicería." },
+  { "slug": "aire", "nombre": "Aire y humedad", "icono": "aire", "intro": "Purificadores y deshumidificadores para respirar mejor y acabar con el moho." },
+  { "slug": "orden", "nombre": "Orden", "icono": "orden", "intro": "Organizadores que hacen que cada cosa tenga su sitio y se vea de un vistazo." },
+  { "slug": "casa-inteligente", "nombre": "Casa inteligente", "icono": "inteligente", "intro": "Controla aparatos desde el móvil o con la voz y ahorra en la factura." }
+]
