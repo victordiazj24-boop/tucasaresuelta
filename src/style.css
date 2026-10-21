@@ -1,19 +1,19 @@
 /* Layout: catálogo tipo "etiquetero de ferretería" — cada producto es una etiqueta numerada (el mismo número que se dice en los vídeos) */
 :root {
-  --bg: #f1f5f3;
+  --bg: #faf7f5;
   --surface: #ffffff;
-  --surface-2: #e6eeea;
-  --ink: #13221e;
-  --muted: #56675f;
-  --line: #d3ddd8;
-  --accent: #0d6b5b;
+  --surface-2: #f3ebe5;
+  --ink: #241813;
+  --muted: #6b5a50;
+  --line: #e7dbd2;
+  --accent: #c2410c;
   --accent-ink: #ffffff;
-  --accent-soft: #d6ebe5;
-  --mark: #f3c331;
-  --mark-ink: #2a2200;
-  --amazon: #13221e;
+  --accent-soft: #fde6d7;
+  --mark: #ff8a3d;
+  --mark-ink: #2b1100;
+  --amazon: #241813;
   --amazon-ink: #ffffff;
-  --shadow: 0 1px 2px rgb(19 34 30 / .06), 0 8px 24px -12px rgb(19 34 30 / .18);
+  --shadow: 0 1px 2px rgb(36 24 19 / .06), 0 8px 24px -12px rgb(36 24 19 / .18);
   --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --f-body: "Figtree", "Segoe UI", system-ui, sans-serif;
   --f-mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
@@ -23,17 +23,17 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0e1614; --surface: #15201d; --surface-2: #1c2a26; --ink: #e6efeb; --muted: #93a69f;
-    --line: #273530; --accent: #43c2a8; --accent-ink: #04201a; --accent-soft: #173a33;
-    --mark: #f3c331; --mark-ink: #2a2200; --amazon: #f3c331; --amazon-ink: #2a2200;
+    --bg: #16110e; --surface: #201813; --surface-2: #2a201a; --ink: #f4ebe5; --muted: #b19f93;
+    --line: #3a2d25; --accent: #ff8a3d; --accent-ink: #2b1100; --accent-soft: #3e2516;
+    --mark: #ff8a3d; --mark-ink: #2b1100; --amazon: #ff8a3d; --amazon-ink: #2b1100;
     --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px -12px rgb(0 0 0 / .6);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0e1614; --surface: #15201d; --surface-2: #1c2a26; --ink: #e6efeb; --muted: #93a69f;
-  --line: #273530; --accent: #43c2a8; --accent-ink: #04201a; --accent-soft: #173a33;
-  --mark: #f3c331; --mark-ink: #2a2200; --amazon: #f3c331; --amazon-ink: #2a2200;
+  --bg: #16110e; --surface: #201813; --surface-2: #2a201a; --ink: #f4ebe5; --muted: #b19f93;
+    --line: #3a2d25; --accent: #ff8a3d; --accent-ink: #2b1100; --accent-soft: #3e2516;
+    --mark: #ff8a3d; --mark-ink: #2b1100; --amazon: #ff8a3d; --amazon-ink: #2b1100;
   --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px -12px rgb(0 0 0 / .6);
   color-scheme: dark;
 }
@@ -149,7 +149,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .tray .link { background: none; border: 0; color: inherit; text-decoration: underline; cursor: pointer; font: inherit; }
 
 dialog { border: 0; border-radius: 18px; padding: 0; max-width: min(920px, calc(100vw - 32px)); width: 100%; background: var(--surface); color: var(--ink); box-shadow: 0 30px 80px -20px rgb(0 0 0 / .5); }
-dialog::backdrop { background: rgb(10 20 18 / .55); backdrop-filter: blur(3px); }
+dialog::backdrop { background: rgb(20 12 8 / .55); backdrop-filter: blur(3px); }
 .dlg-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 18px 20px; border-bottom: 1px solid var(--line); }
 .dlg-close { width: 40px; height: 40px; border-radius: 50%; border: 0; background: var(--surface-2); color: var(--ink); font-size: 1.3rem; cursor: pointer; }
 .dlg-body { padding: 20px; overflow-x: auto; }

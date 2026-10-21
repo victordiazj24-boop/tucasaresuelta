@@ -4,7 +4,18 @@
     "titulo": "Los 10 mejores productos para el hogar que te facilitan la vida",
     "descripcion": "10 productos de Amazon muy bien valorados que ahorran tiempo en la cocina, en la limpieza y en el día a día.",
     "intro": "Hemos reunido 10 productos de Amazon que resuelven problemas reales de casa: cocinar más rápido, limpiar con menos esfuerzo, respirar mejor y tener todo ordenado. Están ordenados por el impacto que tienen en el día a día.",
-    "productos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "productos": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "fecha": "2026-09-25"
   },
   {
@@ -12,7 +23,14 @@
     "titulo": "Cómo acabar con la humedad y el moho en casa",
     "descripcion": "Los aparatos que de verdad funcionan contra la humedad, la condensación en las ventanas y el olor a cerrado.",
     "intro": "La humedad no se arregla con lejía cada dos semanas. Hay que sacar el agua del aire y de los cristales antes de que se convierta en moho. Estos son los productos que lo consiguen.",
-    "productos": [10, 7, 5],
+    "productos": [
+      10,
+      28,
+      29,
+      7,
+      31,
+      5
+    ],
     "fecha": "2026-10-21"
   },
   {
@@ -20,7 +38,76 @@
     "titulo": "Cocina pequeña: productos para ganar espacio y tiempo",
     "descripcion": "Sartenes apilables, organizadores y aparatos compactos para sacar el máximo a una cocina pequeña.",
     "intro": "En una cocina pequeña cada cajón cuenta. Estos productos ocupan poco, sirven para mucho y hacen que cocinar sea más rápido.",
-    "productos": [4, 8, 1, 9],
+    "productos": [
+      4,
+      8,
+      15,
+      16,
+      1,
+      12,
+      9,
+      11
+    ],
+    "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/limpiar-la-casa-en-la-mitad-de-tiempo.html",
+    "titulo": "Limpiar la casa en la mitad de tiempo",
+    "descripcion": "Los productos de limpieza que más tiempo ahorran: robot, escoba sin cable, mopa giratoria, vapor y más.",
+    "intro": "Limpiar no tiene por qué llevarte la mañana del sábado. Con estos productos, el robot hace el día a día y tú solo repasas.",
+    "productos": [
+      2,
+      18,
+      17,
+      19,
+      20,
+      21,
+      7
+    ],
+    "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/ganar-espacio-en-casa.html",
+    "titulo": "Cómo ganar espacio en casa sin hacer obras",
+    "descripcion": "Organizadores, perchas finas, bolsas de vacío y cajas bajo la cama para pisos pequeños.",
+    "intro": "La mayoría de las casas no tienen poco espacio, tienen espacio mal aprovechado. Estos productos lo arreglan en una tarde.",
+    "productos": [
+      24,
+      25,
+      23,
+      15,
+      8,
+      16,
+      4,
+      31
+    ],
+    "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/casa-inteligente-barata.html",
+    "titulo": "Casa inteligente barata: por dónde empezar",
+    "descripcion": "Enchufes, bombillas y altavoz inteligente para controlar la casa desde el móvil gastando poco.",
+    "intro": "No hace falta gastar cientos de euros. Con un altavoz, un par de enchufes y unas bombillas ya controlas media casa con la voz.",
+    "productos": [
+      27,
+      3,
+      26,
+      28
+    ],
+    "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/casa-con-mascotas.html",
+    "titulo": "Productos imprescindibles si tienes perro o gato",
+    "descripcion": "Cómo mantener la casa limpia y sin olores con mascotas: robot, quitapelos, purificador y más.",
+    "intro": "Con mascotas el pelo aparece en todas partes. Estos productos lo controlan sin pasar el día limpiando.",
+    "productos": [
+      2,
+      22,
+      18,
+      5,
+      6
+    ],
     "fecha": "2026-10-21"
   }
 ]

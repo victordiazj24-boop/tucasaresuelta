@@ -5,15 +5,28 @@
     "nombre": "Freidora de aire Cosori",
     "marca": "Cosori",
     "categoria": "cocina",
-    "problemas": ["cocinar-rapido", "ahorro"],
+    "problemas": [
+      "cocinar-rapido",
+      "ahorro"
+    ],
     "resumen": "Cocina patatas, pollo o verduras crujientes con poco o nada de aceite.",
     "porQue": "Precalienta en un par de minutos, no llena la casa de olor a fritura y la cesta antiadherente se limpia en el fregadero o en el lavavajillas. Es el aparato que más se usa a diario de toda esta lista.",
-    "pros": ["Mucho menos aceite que una freidora normal", "Más rápida que el horno para raciones pequeñas", "Cesta fácil de limpiar"],
-    "contras": ["Ocupa sitio en la encimera", "Para familias grandes conviene un modelo de más capacidad"],
+    "pros": [
+      "Mucho menos aceite que una freidora normal",
+      "Más rápida que el horno para raciones pequeñas",
+      "Cesta fácil de limpiar"
+    ],
+    "contras": [
+      "Ocupa sitio en la encimera",
+      "Para familias grandes conviene un modelo de más capacidad"
+    ],
     "idealPara": "Quien quiere comer frito sin la grasa y sin encender el horno.",
     "enlace": "https://link.amazon/B04zRvT3R",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": true,
     "fecha": "2026-09-25"
   },
@@ -23,15 +36,28 @@
     "nombre": "Robot aspirador Roborock",
     "marca": "Roborock",
     "categoria": "limpieza",
-    "problemas": ["polvo", "ahorro"],
+    "problemas": [
+      "polvo",
+      "ahorro"
+    ],
     "resumen": "Aspira (y en muchos modelos friega) mientras tú haces otra cosa, programado desde el móvil.",
     "porQue": "Mapea la casa, vuelve solo a su base y lo puedes lanzar desde el trabajo para encontrarte el suelo limpio. Con mascotas, pasarlo a diario cambia la casa por completo.",
-    "pros": ["Limpieza diaria sin esfuerzo", "Mapas y zonas prohibidas desde la app", "Muchos modelos también friegan"],
-    "contras": ["Hay que recoger cables y calcetines del suelo antes", "Los modelos con base de autovaciado son más caros"],
+    "pros": [
+      "Limpieza diaria sin esfuerzo",
+      "Mapas y zonas prohibidas desde la app",
+      "Muchos modelos también friegan"
+    ],
+    "contras": [
+      "Hay que recoger cables y calcetines del suelo antes",
+      "Los modelos con base de autovaciado son más caros"
+    ],
     "idealPara": "Casas con mascotas o con poco tiempo para pasar la aspiradora.",
     "enlace": "https://link.amazon/B0aeiidnK",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": true,
     "fecha": "2026-09-25"
   },
@@ -41,15 +67,27 @@
     "nombre": "Enchufe inteligente TP-Link Tapo",
     "marca": "TP-Link",
     "categoria": "casa-inteligente",
-    "problemas": ["ahorro"],
+    "problemas": [
+      "ahorro"
+    ],
     "resumen": "Convierte cualquier aparato en inteligente: enciéndelo con el móvil, con la voz o con horario.",
     "porQue": "Lo enchufas, lo vinculas con la app en dos minutos y ya puedes programar la estufa, la lámpara o la cafetera. Funciona con Alexa y Google Home y no necesita ningún aparato extra.",
-    "pros": ["Muy barato para lo que aporta", "Horarios y temporizadores", "Compatible con Alexa y Google"],
-    "contras": ["Necesita wifi de 2,4 GHz", "Algunos modelos no miden el consumo, revisa la versión"],
+    "pros": [
+      "Muy barato para lo que aporta",
+      "Horarios y temporizadores",
+      "Compatible con Alexa y Google"
+    ],
+    "contras": [
+      "Necesita wifi de 2,4 GHz",
+      "Algunos modelos no miden el consumo, revisa la versión"
+    ],
     "idealPara": "Empezar con la casa inteligente sin gastar casi nada.",
     "enlace": "https://link.amazon/B07BCKJxA",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
   },
@@ -59,15 +97,27 @@
     "nombre": "Juego de sartenes Tefal Ingenio",
     "marca": "Tefal",
     "categoria": "cocina",
-    "problemas": ["espacio"],
+    "problemas": [
+      "espacio"
+    ],
     "resumen": "Sartenes y cazos con mango desmontable que se apilan unos dentro de otros.",
     "porQue": "Con el mango quitado, todo el juego cabe en un solo cajón. Además pasan del fuego al horno y a la nevera en el mismo recipiente, así que lavas menos cacharros.",
-    "pros": ["Ahorran muchísimo espacio", "Valen para fuego, horno y nevera", "Un solo mango para todo el juego"],
-    "contras": ["Si pierdes el mango, no puedes usarlas", "Comprueba que el juego que eliges sirve para inducción"],
+    "pros": [
+      "Ahorran muchísimo espacio",
+      "Valen para fuego, horno y nevera",
+      "Un solo mango para todo el juego"
+    ],
+    "contras": [
+      "Si pierdes el mango, no puedes usarlas",
+      "Comprueba que el juego que eliges sirve para inducción"
+    ],
     "idealPara": "Cocinas pequeñas y pisos de alquiler.",
     "enlace": "https://link.amazon/B08g9kuaW",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
   },
@@ -77,15 +127,27 @@
     "nombre": "Purificador de aire Levoit Core 300",
     "marca": "Levoit",
     "categoria": "aire",
-    "problemas": ["alergias"],
+    "problemas": [
+      "alergias"
+    ],
     "resumen": "Filtra polvo, polen, pelo de mascota y olores con un funcionamiento muy silencioso.",
     "porQue": "Tiene filtro HEPA y modo noche, así que puedes dejarlo encendido en el dormitorio sin que moleste. Si tienes alergia, notas la diferencia al despertarte.",
-    "pros": ["Muy silencioso en modo noche", "Filtro HEPA para polen y polvo", "Tamaño compacto"],
-    "contras": ["El filtro hay que cambiarlo cada cierto tiempo", "Pensado para una habitación, no para toda la casa"],
+    "pros": [
+      "Muy silencioso en modo noche",
+      "Filtro HEPA para polen y polvo",
+      "Tamaño compacto"
+    ],
+    "contras": [
+      "El filtro hay que cambiarlo cada cierto tiempo",
+      "Pensado para una habitación, no para toda la casa"
+    ],
     "idealPara": "Personas con alergia o casas con mascotas.",
     "enlace": "https://link.amazon/B04Ebg3P8",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": true,
     "fecha": "2026-09-25"
   },
@@ -95,15 +157,27 @@
     "nombre": "Quitapelusas eléctrico Philips",
     "marca": "Philips",
     "categoria": "limpieza",
-    "problemas": ["ropa"],
+    "problemas": [
+      "ropa"
+    ],
     "resumen": "Elimina las bolitas de jerséis, mantas y sofás en segundos.",
     "porQue": "Un jersey con bolitas parece viejo aunque no lo sea. Con dos pasadas queda como recién comprado, y también funciona con el sofá y las fundas de cojín.",
-    "pros": ["Resultado inmediato y muy visible", "Sirve para ropa y tapicería", "Barato"],
-    "contras": ["Hay que vaciar el depósito a menudo", "Con prendas muy finas hay que ir con cuidado"],
+    "pros": [
+      "Resultado inmediato y muy visible",
+      "Sirve para ropa y tapicería",
+      "Barato"
+    ],
+    "contras": [
+      "Hay que vaciar el depósito a menudo",
+      "Con prendas muy finas hay que ir con cuidado"
+    ],
     "idealPara": "Alargar la vida de la ropa de invierno.",
     "enlace": "https://link.amazon/B0iQmqeXa",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
   },
@@ -113,15 +187,28 @@
     "nombre": "Limpiacristales eléctrico Kärcher WV",
     "marca": "Kärcher",
     "categoria": "limpieza",
-    "problemas": ["cristales", "humedad"],
+    "problemas": [
+      "cristales",
+      "humedad"
+    ],
     "resumen": "Aspira el agua de cristales, espejos y azulejos y los deja sin marcas ni goteos.",
     "porQue": "Pulverizas, pasas la mopa y aspiras: el agua sucia va al depósito y no al suelo. También es perfecto para quitar el vaho de las ventanas en invierno antes de que salga moho.",
-    "pros": ["Cristales sin marcas a la primera", "No gotea al suelo", "Quita la condensación de las ventanas"],
-    "contras": ["Hay que cargar la batería", "En ventanas muy pequeñas cuesta más maniobrar"],
+    "pros": [
+      "Cristales sin marcas a la primera",
+      "No gotea al suelo",
+      "Quita la condensación de las ventanas"
+    ],
+    "contras": [
+      "Hay que cargar la batería",
+      "En ventanas muy pequeñas cuesta más maniobrar"
+    ],
     "idealPara": "Casas con muchas ventanas o mamparas de ducha.",
     "enlace": "https://link.amazon/B05kEIry9",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": true,
     "fecha": "2026-09-25"
   },
@@ -131,15 +218,27 @@
     "nombre": "Organizadores transparentes para nevera",
     "marca": "Varias marcas",
     "categoria": "orden",
-    "problemas": ["espacio"],
+    "problemas": [
+      "espacio"
+    ],
     "resumen": "Cajas apilables para ordenar la nevera y la despensa y ver todo de un vistazo.",
     "porQue": "Agrupas por tipo (lácteos, embutidos, verduras), apilas y dejas de tirar comida olvidada al fondo. Se sacan enteras para limpiar.",
-    "pros": ["Ves lo que tienes sin rebuscar", "Menos comida caducada", "Apilables y fáciles de lavar"],
-    "contras": ["Mide tu nevera antes de comprar", "Ocupan algo más que los productos sueltos"],
+    "pros": [
+      "Ves lo que tienes sin rebuscar",
+      "Menos comida caducada",
+      "Apilables y fáciles de lavar"
+    ],
+    "contras": [
+      "Mide tu nevera antes de comprar",
+      "Ocupan algo más que los productos sueltos"
+    ],
     "idealPara": "Quien quiere una nevera ordenada y desperdiciar menos.",
     "enlace": "https://link.amazon/B0ci1uIyQ",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
   },
@@ -149,15 +248,27 @@
     "nombre": "Báscula de cocina digital",
     "marca": "Varias marcas",
     "categoria": "cocina",
-    "problemas": ["cocinar-rapido"],
+    "problemas": [
+      "cocinar-rapido"
+    ],
     "resumen": "Pesa al gramo y con función tara para pesar en el mismo bol.",
     "porQue": "Imprescindible para repostería, para controlar raciones o para seguir recetas al pie de la letra. Plana y fina, se guarda en cualquier cajón.",
-    "pros": ["Precisión al gramo", "Función tara", "Muy barata"],
-    "contras": ["Funciona con pilas", "Las más baratas tienen una pantalla pequeña"],
+    "pros": [
+      "Precisión al gramo",
+      "Función tara",
+      "Muy barata"
+    ],
+    "contras": [
+      "Funciona con pilas",
+      "Las más baratas tienen una pantalla pequeña"
+    ],
     "idealPara": "Repostería, dietas y recetas exactas.",
     "enlace": "https://link.amazon/B0agmWQgr",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
   },
@@ -167,16 +278,749 @@
     "nombre": "Deshumidificador eléctrico",
     "marca": "Varias marcas",
     "categoria": "aire",
-    "problemas": ["humedad", "alergias"],
+    "problemas": [
+      "humedad",
+      "alergias"
+    ],
     "resumen": "Reduce la humedad del ambiente para evitar moho, malos olores y ropa que no seca.",
     "porQue": "En pisos bajos o zonas de costa, la humedad acaba en manchas negras en las esquinas. Un deshumidificador recoge litros de agua del aire y además ayuda a secar la ropa tendida dentro de casa.",
-    "pros": ["Adiós a manchas de moho y olor a cerrado", "Ayuda a secar la ropa en invierno", "Muchos tienen higrostato automático"],
-    "contras": ["Hay que vaciar el depósito", "Elige la capacidad según los metros de la habitación"],
+    "pros": [
+      "Adiós a manchas de moho y olor a cerrado",
+      "Ayuda a secar la ropa en invierno",
+      "Muchos tienen higrostato automático"
+    ],
+    "contras": [
+      "Hay que vaciar el depósito",
+      "Elige la capacidad según los metros de la habitación"
+    ],
     "idealPara": "Pisos húmedos, sótanos y casas cerca del mar.",
     "enlace": "https://link.amazon/B08bzBWt7",
     "imagen": "",
-    "videos": { "tiktok": "", "youtube": "" },
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
     "destacado": false,
     "fecha": "2026-09-25"
+  },
+  {
+    "numero": 11,
+    "slug": "envasadora-al-vacio",
+    "nombre": "Envasadora al vacío",
+    "marca": "Varias marcas",
+    "categoria": "cocina",
+    "problemas": [
+      "comida",
+      "ahorro"
+    ],
+    "resumen": "Saca el aire de las bolsas para que carne, queso o verdura duren varias veces más.",
+    "porQue": "Compras en cantidad cuando está de oferta, envasas por raciones y congelas sin que se queme el producto. También sirve para marinar en minutos.",
+    "pros": [
+      "La comida dura mucho más en nevera y congelador",
+      "Ahorras comprando en cantidad",
+      "Raciones listas para sacar"
+    ],
+    "contras": [
+      "Necesita bolsas o rollos específicos",
+      "Ocupa algo de sitio en un cajón"
+    ],
+    "idealPara": "Quien cocina para toda la semana o compra en cantidad.",
+    "enlace": "https://www.amazon.es/s?k=envasadora+al+vacio",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 12,
+    "slug": "picadora-electrica",
+    "nombre": "Picadora eléctrica de verduras",
+    "marca": "Varias marcas",
+    "categoria": "cocina",
+    "problemas": [
+      "cocinar-rapido"
+    ],
+    "resumen": "Pica cebolla, ajo, frutos secos o carne en segundos y sin lágrimas.",
+    "porQue": "Lo que más tiempo quita en la cocina es picar. Con un par de pulsaciones tienes la cebolla del sofrito lista y el vaso se lava en un momento.",
+    "pros": [
+      "Ahorra mucho tiempo al preparar",
+      "Sin lágrimas con la cebolla",
+      "Fácil de limpiar"
+    ],
+    "contras": [
+      "No sirve para cortes en láminas finas",
+      "Las cuchillas cortan mucho al lavarlas"
+    ],
+    "idealPara": "Quien cocina a diario y odia picar.",
+    "enlace": "https://www.amazon.es/s?k=picadora+electrica+cocina",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 13,
+    "slug": "hervidor-de-agua-electrico",
+    "nombre": "Hervidor de agua eléctrico",
+    "marca": "Varias marcas",
+    "categoria": "cocina",
+    "problemas": [
+      "ahorro",
+      "cocinar-rapido"
+    ],
+    "resumen": "Hierve un litro de agua en pocos minutos, más rápido que la vitro.",
+    "porQue": "Para el té, el café de filtro, la pasta o las infusiones. Calienta solo el agua que necesitas y se apaga solo.",
+    "pros": [
+      "Mucho más rápido que un cazo",
+      "Se apaga solo",
+      "Gasta menos que la vitrocerámica"
+    ],
+    "contras": [
+      "Con agua dura hay que descalcificarlo",
+      "Elige uno sin sabor a plástico, mejor de acero o cristal"
+    ],
+    "idealPara": "Bebedores de té y quien quiere ganar minutos al cocinar.",
+    "enlace": "https://www.amazon.es/s?k=hervidor+agua+electrico",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 14,
+    "slug": "termometro-de-cocina-digital",
+    "nombre": "Termómetro de cocina digital",
+    "marca": "Varias marcas",
+    "categoria": "cocina",
+    "problemas": [
+      "cocinar-rapido"
+    ],
+    "resumen": "Te dice en segundos si la carne, el pescado o el aceite están en su punto.",
+    "porQue": "Se acabó cortar el pollo para ver si está hecho. Pinchas, miras la temperatura y lo sacas en el punto exacto, jugoso y seguro.",
+    "pros": [
+      "Carne siempre en su punto",
+      "Lectura en pocos segundos",
+      "Muy barato"
+    ],
+    "contras": [
+      "Funciona con pila",
+      "Hay que limpiar la sonda después de cada uso"
+    ],
+    "idealPara": "Barbacoas, asados y repostería.",
+    "enlace": "https://www.amazon.es/s?k=termometro+cocina+digital",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 15,
+    "slug": "botes-hermeticos-despensa",
+    "nombre": "Botes herméticos para despensa",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio",
+      "comida"
+    ],
+    "resumen": "Juego de botes apilables para pasta, arroz, cereales o harina que cierran sin dejar pasar aire.",
+    "porQue": "La despensa se ve ordenada, los alimentos no se ablandan ni cogen bichos y sabes de un vistazo lo que te queda.",
+    "pros": [
+      "Alimentos frescos durante más tiempo",
+      "Despensa ordenada y a la vista",
+      "Apilables"
+    ],
+    "contras": [
+      "Mide las baldas antes de elegir tamaño",
+      "Algunos juegos no van al lavavajillas"
+    ],
+    "idealPara": "Despensas desordenadas y familias que compran a granel.",
+    "enlace": "https://www.amazon.es/s?k=botes+hermeticos+despensa+set",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 16,
+    "slug": "especiero-giratorio",
+    "nombre": "Especiero giratorio",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio"
+    ],
+    "resumen": "Organizador que gira para tener todas las especias a mano en poco espacio.",
+    "porQue": "Dejas de rebuscar el pimentón al fondo del armario. Giras y lo tienes, y ocupa la esquina de la encimera que no usabas.",
+    "pros": [
+      "Todo a mano mientras cocinas",
+      "Aprovecha una esquina",
+      "Ordenado y bonito"
+    ],
+    "contras": [
+      "Los botes incluidos a veces son pequeños",
+      "Ocupa un hueco en la encimera"
+    ],
+    "idealPara": "Cocinas con muchas especias sueltas.",
+    "enlace": "https://www.amazon.es/s?k=especiero+giratorio",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 17,
+    "slug": "mopa-giratoria-con-cubo",
+    "nombre": "Mopa giratoria con cubo centrifugador",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "polvo"
+    ],
+    "resumen": "Fregona que se escurre sola con el pedal o el centrifugado, sin tocar el agua sucia.",
+    "porQue": "Friegas más rápido, el suelo queda casi seco y no te mojas las manos. La mecha de microfibra se lava en la lavadora.",
+    "pros": [
+      "Escurre sin tocar el agua",
+      "El suelo seca antes",
+      "Mecha lavable"
+    ],
+    "contras": [
+      "El cubo ocupa más que uno normal",
+      "Las mechas de recambio conviene tenerlas a mano"
+    ],
+    "idealPara": "Casas con suelo de baldosa o con niños y mascotas.",
+    "enlace": "https://www.amazon.es/s?k=mopa+giratoria+cubo+centrifugador",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": true,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 18,
+    "slug": "aspiradora-escoba-sin-cable",
+    "nombre": "Aspiradora escoba sin cable",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "polvo"
+    ],
+    "resumen": "Aspiradora ligera de batería para pasar en un momento sin enchufar nada.",
+    "porQue": "Como está siempre lista, la usas mucho más: migas de la cocina, pelos del sofá o el coche. La mayoría se convierten en aspirador de mano.",
+    "pros": [
+      "Sin cables ni enchufes",
+      "Se convierte en aspirador de mano",
+      "Ligera y fácil de guardar"
+    ],
+    "contras": [
+      "La batería dura menos en modo máximo",
+      "Depósito pequeño, hay que vaciarlo a menudo"
+    ],
+    "idealPara": "Repasos diarios y casas con mascotas.",
+    "enlace": "https://www.amazon.es/s?k=aspiradora+escoba+sin+cable",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": true,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 19,
+    "slug": "limpiador-a-vapor",
+    "nombre": "Limpiador a vapor",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "grasa-cal"
+    ],
+    "resumen": "Quita grasa, cal y suciedad incrustada solo con agua caliente a presión.",
+    "porQue": "Juntas de azulejos, mamparas, la vitro o el horno quedan limpios sin productos químicos. El vapor también desinfecta.",
+    "pros": [
+      "Limpia sin productos químicos",
+      "Va genial en juntas y esquinas",
+      "Desinfecta"
+    ],
+    "contras": [
+      "Hay que esperar a que caliente",
+      "No apto para madera sin sellar"
+    ],
+    "idealPara": "Baños y cocinas con cal y grasa.",
+    "enlace": "https://www.amazon.es/s?k=limpiador+vapor+mano",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 20,
+    "slug": "cepillo-electrico-de-limpieza",
+    "nombre": "Cepillo eléctrico de limpieza",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "grasa-cal"
+    ],
+    "resumen": "Cepillo giratorio de batería con cabezales para baño, cocina y juntas.",
+    "porQue": "El cepillo gira por ti: frotas la bañera, el fregadero o las juntas sin dejarte el brazo. Suele traer mango largo para no agacharte.",
+    "pros": [
+      "Frota por ti",
+      "Varios cabezales",
+      "Batería recargable"
+    ],
+    "contras": [
+      "Los cabezales se desgastan con el uso",
+      "Las salpicaduras obligan a ir con cuidado"
+    ],
+    "idealPara": "Quien odia frotar el baño.",
+    "enlace": "https://www.amazon.es/s?k=cepillo+electrico+limpieza+giratorio",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 21,
+    "slug": "panos-de-microfibra",
+    "nombre": "Paños de microfibra",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "cristales",
+      "polvo"
+    ],
+    "resumen": "Pack de bayetas de microfibra que atrapan el polvo y dejan los cristales sin pelusas.",
+    "porQue": "Con agua sola limpian casi todo, se lavan en la lavadora y duran años. Uno de los productos más baratos y que más se nota.",
+    "pros": [
+      "Muy baratos",
+      "Atrapan el polvo en vez de moverlo",
+      "Lavables cientos de veces"
+    ],
+    "contras": [
+      "No usar suavizante al lavarlos",
+      "Separa los de cocina de los de baño"
+    ],
+    "idealPara": "Todo el mundo, de verdad.",
+    "enlace": "https://www.amazon.es/s?k=pa%C3%B1os+microfibra+limpieza+pack",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 22,
+    "slug": "quitapelos-de-mascotas-reutilizable",
+    "nombre": "Quitapelos de mascotas reutilizable",
+    "marca": "Varias marcas",
+    "categoria": "limpieza",
+    "problemas": [
+      "ropa",
+      "polvo"
+    ],
+    "resumen": "Rodillo que recoge el pelo de perro o gato del sofá y la ropa, sin recambios adhesivos.",
+    "porQue": "Lo pasas adelante y atrás y el pelo se queda en el depósito. Se vacía y listo, sin comprar más rollos.",
+    "pros": [
+      "Sin recambios",
+      "Muy eficaz en sofás y camas",
+      "No necesita pilas"
+    ],
+    "contras": [
+      "Funciona peor en tejidos muy lisos",
+      "Hay que vaciarlo a menudo"
+    ],
+    "idealPara": "Casas con perros o gatos.",
+    "enlace": "https://www.amazon.es/s?k=quitapelos+mascotas+reutilizable",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 23,
+    "slug": "cajas-de-almacenaje-bajo-cama",
+    "nombre": "Cajas de almacenaje bajo la cama",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio"
+    ],
+    "resumen": "Cajas planas con tapa para guardar ropa de temporada o mantas debajo de la cama.",
+    "porQue": "El hueco bajo la cama es el armario que no usas. Guardas la ropa de verano en invierno y al revés, y libras medio armario.",
+    "pros": [
+      "Aprovechas un espacio muerto",
+      "Protegen del polvo",
+      "Asas para sacarlas fácil"
+    ],
+    "contras": [
+      "Mide la altura bajo tu cama",
+      "Las de tela se deforman si las llenas mucho"
+    ],
+    "idealPara": "Pisos pequeños y dormitorios sin armario grande.",
+    "enlace": "https://www.amazon.es/s?k=cajas+almacenaje+bajo+cama",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 24,
+    "slug": "perchas-de-terciopelo",
+    "nombre": "Perchas de terciopelo antideslizantes",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio",
+      "ropa"
+    ],
+    "resumen": "Perchas finas que no dejan resbalar la ropa y ocupan la mitad que las normales.",
+    "porQue": "Cambias todas las perchas y el armario parece el doble de grande. La ropa no se cae al fondo ni se marca en los hombros.",
+    "pros": [
+      "Ganas mucho espacio en el armario",
+      "La ropa no se cae",
+      "Todas iguales, aspecto ordenado"
+    ],
+    "contras": [
+      "No aguantan abrigos muy pesados",
+      "Hay que comprar varias decenas"
+    ],
+    "idealPara": "Armarios llenos a reventar.",
+    "enlace": "https://www.amazon.es/s?k=perchas+terciopelo+antideslizantes",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 25,
+    "slug": "bolsas-de-vacio-para-ropa",
+    "nombre": "Bolsas de vacío para ropa",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio"
+    ],
+    "resumen": "Bolsas que se aplastan al sacar el aire y reducen edredones y ropa a una fracción.",
+    "porQue": "Un edredón nórdico pasa a ocupar lo que un libro grueso. Con la aspiradora o una bomba de mano en un minuto lo tienes.",
+    "pros": [
+      "Reducen mucho el volumen",
+      "Protegen de humedad y polillas",
+      "Reutilizables"
+    ],
+    "contras": [
+      "Algunas pierden vacío con el tiempo",
+      "La ropa sale arrugada"
+    ],
+    "idealPara": "Ropa de temporada y ropa de cama.",
+    "enlace": "https://www.amazon.es/s?k=bolsas+vacio+ropa",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 26,
+    "slug": "bombillas-inteligentes-wifi",
+    "nombre": "Bombillas inteligentes wifi",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Bombillas LED que enciendes, apagas y regulas desde el móvil o con la voz.",
+    "porQue": "Programas que se apaguen solas, cambias la luz a cálida por la noche y nunca vuelves a dejar una luz encendida al salir de casa.",
+    "pros": [
+      "Control desde el móvil y por voz",
+      "Horarios automáticos",
+      "LED de bajo consumo"
+    ],
+    "contras": [
+      "Comprueba el tipo de rosca, E27 o E14",
+      "Si apagas el interruptor de la pared, dejan de responder"
+    ],
+    "idealPara": "Empezar con la casa inteligente por la luz.",
+    "enlace": "https://www.amazon.es/s?k=bombilla+inteligente+wifi+e27",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 27,
+    "slug": "altavoz-inteligente-echo-dot",
+    "nombre": "Altavoz inteligente Echo Dot",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Altavoz con Alexa para música, temporizadores, recordatorios y controlar tus enchufes y bombillas.",
+    "porQue": "Es el centro de la casa inteligente: \"Alexa, apaga el salón\" o \"pon un temporizador de 10 minutos\" con las manos llenas en la cocina.",
+    "pros": [
+      "Controla enchufes y bombillas por voz",
+      "Temporizadores en la cocina",
+      "Pequeño y suena bien para su tamaño"
+    ],
+    "contras": [
+      "Necesita wifi y cuenta de Amazon",
+      "El sonido no es de equipo de música"
+    ],
+    "idealPara": "Cocina y salón.",
+    "enlace": "https://www.amazon.es/s?k=echo+dot",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 28,
+    "slug": "sensor-de-temperatura-y-humedad",
+    "nombre": "Sensor de temperatura y humedad",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "humedad"
+    ],
+    "resumen": "Pequeño medidor que te dice la humedad real de cada habitación.",
+    "porQue": "Por encima del 60 % de humedad empieza el moho. Con un medidor sabes cuándo ventilar o encender el deshumidificador, antes de que salgan manchas.",
+    "pros": [
+      "Sabes la humedad real",
+      "Muy barato",
+      "Algunos guardan el historial en el móvil"
+    ],
+    "contras": [
+      "Funciona con pilas",
+      "Los más baratos son menos precisos"
+    ],
+    "idealPara": "Pisos con problemas de humedad.",
+    "enlace": "https://www.amazon.es/s?k=higrometro+termometro+digital+casa",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 29,
+    "slug": "absorbe-humedad-recargable",
+    "nombre": "Absorbe humedad recargable",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "humedad"
+    ],
+    "resumen": "Bote con pastillas que atrapan la humedad de armarios, baños y trasteros sin enchufe.",
+    "porQue": "Para sitios pequeños donde un deshumidificador no cabe: el armario, debajo del fregadero o el coche. Evita el olor a cerrado.",
+    "pros": [
+      "Sin enchufe ni ruido",
+      "Ideal en armarios",
+      "Recargas baratas"
+    ],
+    "contras": [
+      "Hay que cambiar la pastilla",
+      "No vale para una habitación entera"
+    ],
+    "idealPara": "Armarios, trasteros y caravanas.",
+    "enlace": "https://www.amazon.es/s?k=absorbe+humedad+recargable",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 30,
+    "slug": "difusor-de-aromas",
+    "nombre": "Difusor de aromas",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "alergias"
+    ],
+    "resumen": "Humidificador pequeño que perfuma la casa con aceites esenciales.",
+    "porQue": "Quita el olor a cerrado o a comida del salón y da un toque de ambiente. Además añade algo de humedad en invierno con la calefacción.",
+    "pros": [
+      "La casa huele bien",
+      "Luz suave de ambiente",
+      "Silencioso"
+    ],
+    "contras": [
+      "Usa aceites aptos si tienes mascotas",
+      "No sustituye a ventilar"
+    ],
+    "idealPara": "Salones y dormitorios.",
+    "enlace": "https://www.amazon.es/s?k=difusor+aromas+humidificador",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 31,
+    "slug": "tendedero-plegable",
+    "nombre": "Tendedero plegable",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "humedad",
+      "espacio"
+    ],
+    "resumen": "Tendedero de alas que se pliega casi plano y se guarda detrás de una puerta.",
+    "porQue": "En invierno tiendes la colada dentro, junto al deshumidificador, y cuando no lo usas desaparece. Mucho mejor que llenar sillas y radiadores.",
+    "pros": [
+      "Mucha cuerda en poco espacio",
+      "Se pliega plano",
+      "Ligero"
+    ],
+    "contras": [
+      "Los muy baratos se doblan con peso",
+      "Elige uno con alas laterales"
+    ],
+    "idealPara": "Pisos sin terraza ni tendedero exterior.",
+    "enlace": "https://www.amazon.es/s?k=tendedero+plegable+alas",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 32,
+    "slug": "cubos-de-reciclaje",
+    "nombre": "Cubos de basura de reciclaje",
+    "marca": "Varias marcas",
+    "categoria": "orden",
+    "problemas": [
+      "espacio"
+    ],
+    "resumen": "Cubo con varios compartimentos para separar orgánico, envases y papel en un solo hueco.",
+    "porQue": "Reciclar es mucho más fácil cuando todo está en el mismo cubo. Los apilables o de extraíble ocupan como uno solo.",
+    "pros": [
+      "Separar es más cómodo",
+      "Un solo hueco para todo",
+      "Tapa que retiene el olor"
+    ],
+    "contras": [
+      "Mide el hueco bajo el fregadero",
+      "Compartimentos pequeños en los modelos compactos"
+    ],
+    "idealPara": "Cocinas sin sitio para tres cubos.",
+    "enlace": "https://www.amazon.es/s?k=cubo+basura+reciclaje+compartimentos",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
+  },
+  {
+    "numero": 33,
+    "slug": "burlete-bajo-puerta",
+    "nombre": "Burlete bajo puerta",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Tira que tapa la rendija de debajo de la puerta y corta el frío y las corrientes.",
+    "porQue": "Por la rendija se escapa mucho calor y entra ruido y polvo. Se coloca en un minuto y en invierno se nota en la calefacción.",
+    "pros": [
+      "Corta corrientes de aire",
+      "Menos gasto en calefacción",
+      "Se coloca sin herramientas"
+    ],
+    "contras": [
+      "Algunos dificultan abrir sobre alfombras",
+      "Mide el ancho de la puerta"
+    ],
+    "idealPara": "Puertas de entrada y habitaciones frías.",
+    "enlace": "https://www.amazon.es/s?k=burlete+bajo+puerta",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-21"
   }
 ]
