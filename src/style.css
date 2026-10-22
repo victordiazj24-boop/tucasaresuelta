@@ -1,14 +1,14 @@
 /* Layout: catálogo tipo "etiquetero de ferretería" — cada producto es una etiqueta numerada (el mismo número que se dice en los vídeos) */
 :root {
-  --bg: #faf7f5;
-  --surface: #ffffff;
-  --surface-2: #f3ebe5;
-  --ink: #241813;
-  --muted: #6b5a50;
-  --line: #e7dbd2;
+  --bg: #fff1e4;
+  --surface: #fffaf5;
+  --surface-2: #ffe4cf;
+  --ink: #5a3422;
+  --muted: #8a5f48;
+  --line: #f5d3b8;
   --accent: #c2410c;
   --accent-ink: #ffffff;
-  --accent-soft: #fde6d7;
+  --accent-soft: #ffe0c7;
   --mark: #ff8a3d;
   --mark-ink: #2b1100;
   --amazon: #ea580c;
