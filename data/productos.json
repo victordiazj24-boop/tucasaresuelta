@@ -122,7 +122,7 @@
     ],
     "idealPara": "Cocinas pequeñas y pisos de alquiler.",
     "enlace": "https://link.amazon/B06jaCO3O",
-    "imagen": "",
+    "imagen": "assets/img/sartenes-tefal-ingenio-unlimited-on.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -131,7 +131,8 @@
     "fecha": "2026-09-25",
     "slugsAnteriores": [
       "sartenes-tefal-ingenio"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 5,
@@ -155,7 +156,7 @@
     ],
     "idealPara": "Personas con alergia o casas con mascotas.",
     "enlace": "https://link.amazon/B061WUC2b",
-    "imagen": "",
+    "imagen": "assets/img/purificador-de-aire-levoit-core-200s.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -164,7 +165,8 @@
     "fecha": "2026-09-25",
     "slugsAnteriores": [
       "purificador-de-aire-levoit-core-300"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 6,
@@ -188,13 +190,14 @@
     ],
     "idealPara": "Alargar la vida de la ropa de invierno.",
     "enlace": "https://link.amazon/B0iQmqeXa",
-    "imagen": "",
+    "imagen": "assets/img/quitapelusas-electrico-philips.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "imagenIlustrativa": true
   },
   {
     "numero": 7,
@@ -219,7 +222,7 @@
     ],
     "idealPara": "Casas con muchas ventanas o mamparas de ducha.",
     "enlace": "https://link.amazon/B08jLQEub",
-    "imagen": "",
+    "imagen": "assets/img/limpiacristales-karcher-wv-2-black-edition.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -228,7 +231,8 @@
     "fecha": "2026-09-25",
     "slugsAnteriores": [
       "limpiacristales-karcher-wv"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 8,
@@ -252,7 +256,7 @@
     ],
     "idealPara": "Quien quiere una nevera ordenada y desperdiciar menos.",
     "enlace": "https://link.amazon/B07VL0yTp",
-    "imagen": "",
+    "imagen": "assets/img/organizadores-transparentes-kichly.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -261,7 +265,8 @@
     "fecha": "2026-09-25",
     "slugsAnteriores": [
       "organizadores-transparentes-nevera"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 9,
@@ -285,13 +290,14 @@
     ],
     "idealPara": "Repostería, dietas y recetas exactas.",
     "enlace": "https://link.amazon/B0agmWQgr",
-    "imagen": "",
+    "imagen": "assets/img/bascula-de-cocina-digital.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "imagenIlustrativa": true
   },
   {
     "numero": 10,
@@ -316,7 +322,7 @@
     ],
     "idealPara": "Pisos húmedos, sótanos y casas cerca del mar.",
     "enlace": "https://link.amazon/B02OsJXQ2",
-    "imagen": "",
+    "imagen": "assets/img/deshumidificador-cecotec-bigdry-2000.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -325,7 +331,8 @@
     "fecha": "2026-09-25",
     "slugsAnteriores": [
       "deshumidificador-electrico"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 11,
@@ -350,7 +357,7 @@
     ],
     "idealPara": "Quien cocina para toda la semana o compra en cantidad.",
     "enlace": "https://link.amazon/B0fkSdBAX",
-    "imagen": "",
+    "imagen": "assets/img/envasadora-al-vacio-bonsenkitchen-de-4-modos.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -359,7 +366,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "envasadora-al-vacio"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 12,
@@ -383,7 +391,7 @@
     ],
     "idealPara": "Quien cocina a diario y odia picar.",
     "enlace": "https://www.amazon.es/dp/B08G1RSDZJ",
-    "imagen": "",
+    "imagen": "assets/img/picadora-moulinex-moulinette-essential.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -392,7 +400,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "picadora-electrica"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 13,
@@ -417,7 +426,7 @@
     ],
     "idealPara": "Bebedores de té y quien quiere ganar minutos al cocinar.",
     "enlace": "https://www.amazon.es/dp/B08741BCY7",
-    "imagen": "",
+    "imagen": "assets/img/hervidor-de-agua-aigostar-milo-1-7-l.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -426,7 +435,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "hervidor-de-agua-electrico"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 14,
@@ -450,7 +460,7 @@
     ],
     "idealPara": "Barbacoas, asados y repostería.",
     "enlace": "https://link.amazon/B02CMB2fN",
-    "imagen": "",
+    "imagen": "assets/img/termometro-de-cocina-thermopro-tp02s.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -459,7 +469,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "termometro-de-cocina-digital"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 15,
@@ -484,7 +495,7 @@
     ],
     "idealPara": "Despensas desordenadas y familias que compran a granel.",
     "enlace": "https://www.amazon.es/dp/B0967WM727",
-    "imagen": "",
+    "imagen": "assets/img/botes-hermeticos-vtopmart.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -493,7 +504,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "botes-hermeticos-despensa"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 16,
@@ -517,7 +529,7 @@
     ],
     "idealPara": "Cocinas con muchas especias sueltas.",
     "enlace": "https://link.amazon/B033BArWV",
-    "imagen": "",
+    "imagen": "assets/img/especiero-giratorio-edihome.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -526,7 +538,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "especiero-giratorio"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 17,
@@ -550,7 +563,7 @@
     ],
     "idealPara": "Casas con suelo de baldosa o con niños y mascotas.",
     "enlace": "https://www.amazon.es/dp/B01HTTQ6FC",
-    "imagen": "",
+    "imagen": "assets/img/fregona-vileda-turbo-con-cubo-centrifugador.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -559,7 +572,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "mopa-giratoria-con-cubo"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 18,
@@ -583,7 +597,7 @@
     ],
     "idealPara": "Repasos diarios y casas con mascotas.",
     "enlace": "https://link.amazon/B03oEGvH9",
-    "imagen": "",
+    "imagen": "assets/img/aspiradora-escoba-cecotec-conga-rockstar-p50-x-treme.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -592,7 +606,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "aspiradora-escoba-sin-cable"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 19,
@@ -616,7 +631,7 @@
     ],
     "idealPara": "Baños y cocinas con cal y grasa.",
     "enlace": "https://www.amazon.es/dp/B0CGMCFD8C",
-    "imagen": "",
+    "imagen": "assets/img/limpiadora-a-vapor-karcher-sc-2-easyfix.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -625,7 +640,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "limpiador-a-vapor"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 20,
@@ -649,7 +665,7 @@
     ],
     "idealPara": "Quien odia frotar el baño.",
     "enlace": "https://link.amazon/B06FCTXiE",
-    "imagen": "",
+    "imagen": "assets/img/cepillo-electrico-giratorio-inalambrico-leebein.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -658,7 +674,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "cepillo-electrico-de-limpieza"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 21,
@@ -683,7 +700,7 @@
     ],
     "idealPara": "Todo el mundo, de verdad.",
     "enlace": "https://www.amazon.es/dp/B009FUF6DM",
-    "imagen": "",
+    "imagen": "assets/img/panos-de-microfibra-amazon-basics.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -692,7 +709,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "panos-de-microfibra"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 22,
@@ -717,7 +735,7 @@
     ],
     "idealPara": "Casas con perros o gatos.",
     "enlace": "https://link.amazon/B01m8ntYj",
-    "imagen": "",
+    "imagen": "assets/img/rodillo-quitapelos-reutilizable-ace2ace.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -726,7 +744,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "quitapelos-de-mascotas-reutilizable"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 23,
@@ -750,7 +769,7 @@
     ],
     "idealPara": "Pisos pequeños y dormitorios sin armario grande.",
     "enlace": "https://www.amazon.es/dp/B0BCVF3FQL",
-    "imagen": "",
+    "imagen": "assets/img/cajas-bajo-la-cama-lifewit.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -759,7 +778,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "cajas-de-almacenaje-bajo-cama"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 24,
@@ -784,7 +804,7 @@
     ],
     "idealPara": "Armarios llenos a reventar.",
     "enlace": "https://www.amazon.es/dp/B0756D8W87",
-    "imagen": "",
+    "imagen": "assets/img/perchas-de-terciopelo-amazon-basics.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -793,7 +813,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "perchas-de-terciopelo"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 25,
@@ -817,7 +838,7 @@
     ],
     "idealPara": "Ropa de temporada y ropa de cama.",
     "enlace": "https://link.amazon/B0dezAUXp",
-    "imagen": "",
+    "imagen": "assets/img/bolsas-de-vacio-suoco-con-bomba-electrica.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -826,7 +847,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "bolsas-de-vacio-para-ropa"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 26,
@@ -850,7 +872,7 @@
     ],
     "idealPara": "Empezar con la casa inteligente por la luz.",
     "enlace": "https://www.amazon.es/dp/B08QRQQ53T",
-    "imagen": "",
+    "imagen": "assets/img/bombillas-inteligentes-tp-link-tapo-l530e.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -859,7 +881,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "bombillas-inteligentes-wifi"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 27,
@@ -883,13 +906,14 @@
     ],
     "idealPara": "Cocina y salón.",
     "enlace": "https://www.amazon.es/dp/B09B8RF4PY",
-    "imagen": "",
+    "imagen": "assets/img/altavoz-inteligente-echo-dot.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "imagenIlustrativa": true
   },
   {
     "numero": 28,
@@ -913,7 +937,7 @@
     ],
     "idealPara": "Pisos con problemas de humedad.",
     "enlace": "https://link.amazon/B07XI0L4X",
-    "imagen": "",
+    "imagen": "assets/img/termohigrometro-thermopro-tp49.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -922,7 +946,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "sensor-de-temperatura-y-humedad"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 29,
