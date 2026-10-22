@@ -1005,28 +1005,27 @@
   },
   {
     "numero": 34,
-    "slug": "alcoholimetro-ace-a",
-    "nombre": "Alcoholímetro ACE A",
-    "marca": "ACE",
+    "slug": "alcoholimetro-camthom",
+    "nombre": "Alcoholímetro digital Camthom",
+    "marca": "Camthom",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
     ],
-    "resumen": "Alcoholímetro de bolsillo de la marca alemana ACE con sensor electroquímico, el mismo tipo que usan los de la policía, a precio económico.",
-    "porQue": "Los alcoholímetros más baratos usan un sensor semiconductor que falla mucho y se descalibra pronto. El ACE A lleva sensor electroquímico (pila de combustible): da lecturas mucho más fiables, no se confunde con el olor a tabaco o comida y se maneja con un solo botón. ACE es una marca especializada en alcoholímetros, con servicio de recalibrado. Es la mejor relación calidad-precio que hemos encontrado.",
+    "resumen": "Alcoholímetro de bolsillo barato, el más vendido en Amazon, con pantalla digital y carga por USB-C.",
+    "porQue": "Por unos 20 euros sales de dudas antes de coger el coche. Es el más vendido de su categoría en Amazon: da el resultado en pocos segundos en la pantalla, se carga con USB-C y trae boquillas reutilizables.",
     "pros": [
-      "Sensor electroquímico, mucho más fiable que los baratos",
-      "Un solo botón y resultado en segundos",
-      "Marca especializada con servicio de recalibrado",
-      "Cabe en la guantera o en el bolsillo"
+      "Muy económico, unos 20 €",
+      "El más vendido de su categoría",
+      "Recargable por USB-C",
+      "10 boquillas reutilizables"
     ],
     "contras": [
       "Orientativo: no sustituye a un control oficial",
-      "Hay que esperar unos 15-20 minutos después de beber o comer para medir",
-      "Conviene recalibrarlo cada año o año y medio"
+      "Espera unos 15-20 minutos después de beber o comer para medir"
     ],
     "idealPara": "Quien conduce después de una comida o una cena y quiere salir de dudas antes de coger el coche.",
-    "enlace": "https://www.amazon.es/dp/B07C4S1XMR",
+    "enlace": "https://www.amazon.es/dp/B0GSMZN54V",
     "imagen": "",
     "videos": {
       "tiktok": "",
