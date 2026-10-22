@@ -1028,20 +1028,20 @@
   },
   {
     "numero": 34,
-    "slug": "alcoholimetro-electroquimico",
-    "nombre": "Alcoholímetro digital con sensor electroquímico",
-    "marca": "Varias marcas",
+    "slug": "alcoholimetro-ace-a",
+    "nombre": "Alcoholímetro ACE A",
+    "marca": "ACE",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
     ],
-    "resumen": "Alcoholímetro de bolsillo con sensor de pila de combustible, el mismo tipo que usan los de la policía, a precio económico.",
-    "porQue": "Los alcoholímetros más baratos usan un sensor semiconductor que falla mucho y se descalibra pronto. Por poco más, uno con sensor electroquímico (pila de combustible) da lecturas mucho más fiables, no se confunde con el olor a tabaco o comida y aguanta más tiempo calibrado. Es la mejor relación calidad-precio.",
+    "resumen": "Alcoholímetro de bolsillo de la marca alemana ACE con sensor electroquímico, el mismo tipo que usan los de la policía, a precio económico.",
+    "porQue": "Los alcoholímetros más baratos usan un sensor semiconductor que falla mucho y se descalibra pronto. El ACE A lleva sensor electroquímico (pila de combustible): da lecturas mucho más fiables, no se confunde con el olor a tabaco o comida y se maneja con un solo botón. ACE es una marca especializada en alcoholímetros, con servicio de recalibrado. Es la mejor relación calidad-precio que hemos encontrado.",
     "pros": [
       "Sensor electroquímico, mucho más fiable que los baratos",
-      "Resultado en segundos y en mg/L, como en los controles",
-      "Recargable por USB y cabe en la guantera",
-      "Boquillas reutilizables o de recambio"
+      "Un solo botón y resultado en segundos",
+      "Marca especializada con servicio de recalibrado",
+      "Cabe en la guantera o en el bolsillo"
     ],
     "contras": [
       "Orientativo: no sustituye a un control oficial",
@@ -1049,8 +1049,7 @@
       "Conviene recalibrarlo cada año o año y medio"
     ],
     "idealPara": "Quien conduce después de una comida o una cena y quiere salir de dudas antes de coger el coche.",
-    "enlace": "https://www.amazon.es/s?k=alcoholimetro+electroquimico+pila+de+combustible",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07C4S1XMR",
     "imagen": "",
     "videos": {
       "tiktok": "",
