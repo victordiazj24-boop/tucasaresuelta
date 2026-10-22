@@ -1278,8 +1278,8 @@
   {
     "numero": 43,
     "slug": "baliza-v16-conectada",
-    "nombre": "Luz V16 conectada help flash IoT",
-    "marca": "help flash",
+    "nombre": "Luz V16 conectada SUMEX con geolocalización",
+    "marca": "SUMEX",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
@@ -1288,15 +1288,16 @@
     "porQue": "Desde 2026 la DGT exige la baliza V16 conectada en lugar de los triángulos. Se coloca desde la ventanilla y avisa de tu posición a la DGT.",
     "pros": [
       "No tienes que caminar por la carretera",
-      "Imán para el techo del coche",
-      "Conexión a la DGT incluida"
+      "Base magnética para el techo del coche",
+      "SIM incluida y activada: avisa a la DGT",
+      "Resistente al agua (IP54)"
     ],
     "contras": [
       "Revisa la batería una vez al año",
       "El plan de datos tiene una duración limitada: mira las condiciones"
     ],
     "idealPara": "Cualquier coche o moto que circule por España.",
-    "enlace": "https://www.amazon.es/dp/B0BD4L3NYZ",
+    "enlace": "https://www.amazon.es/dp/B0DBM4671C",
     "imagen": "",
     "videos": {
       "tiktok": "",
