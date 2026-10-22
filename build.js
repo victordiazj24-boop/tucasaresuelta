@@ -108,7 +108,7 @@ ${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" hr
 <meta property="og:url" content="${cfg.dominio}/${canonical}">
 <meta property="og:image" content="${ogImage}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#c2410c">
+<meta name="theme-color" content="#ea580c">
 <link rel="icon" href="${base}favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap">
@@ -362,7 +362,7 @@ fs.mkdirSync(path.join(OUT, "assets"), { recursive: true });
 fs.copyFileSync(path.join(ROOT, "src/style.css"), path.join(OUT, "assets/style.css"));
 fs.copyFileSync(path.join(ROOT, "src/app.js"), path.join(OUT, "assets/app.js"));
 if (fs.existsSync(path.join(ROOT, "src/img"))) fs.cpSync(path.join(ROOT, "src/img"), path.join(OUT, "assets/img"), { recursive: true });
-fs.writeFileSync(path.join(OUT, "favicon.svg"), `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#c2410c"/><g fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15 16 7l10 8"/><path d="M9 14v11h14V14"/><path d="m12.5 19.5 2.5 2.5 4.5-4.5" stroke="#ffd2b0"/></g></svg>`);
+fs.writeFileSync(path.join(OUT, "favicon.svg"), `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#ea580c"/><g fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15 16 7l10 8"/><path d="M9 14v11h14V14"/><path d="m12.5 19.5 2.5 2.5 4.5-4.5"/></g></svg>`);
 fs.writeFileSync(path.join(OUT, "CNAME"), new URL(cfg.dominio).hostname + "\n");
 fs.writeFileSync(path.join(OUT, ".nojekyll"), "");
 fs.writeFileSync(path.join(OUT, "robots.txt"), `User-agent: *\nAllow: /\nDisallow: /herramienta.html\nDisallow: /preview.html\nSitemap: ${cfg.dominio}/sitemap.xml\n`);

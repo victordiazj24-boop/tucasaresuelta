@@ -11,7 +11,7 @@
   --accent-soft: #fde6d7;
   --mark: #ff8a3d;
   --mark-ink: #2b1100;
-  --amazon: #241813;
+  --amazon: #ea580c;
   --amazon-ink: #ffffff;
   --shadow: 0 1px 2px rgb(36 24 19 / .06), 0 8px 24px -12px rgb(36 24 19 / .18);
   --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
@@ -21,22 +21,7 @@
   --gutter-l: max(16px, env(safe-area-inset-left, 0px));
   --gutter-r: max(16px, env(safe-area-inset-right, 0px));
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #16110e; --surface: #201813; --surface-2: #2a201a; --ink: #f4ebe5; --muted: #b19f93;
-    --line: #3a2d25; --accent: #ff8a3d; --accent-ink: #2b1100; --accent-soft: #3e2516;
-    --mark: #ff8a3d; --mark-ink: #2b1100; --amazon: #ff8a3d; --amazon-ink: #2b1100;
-    --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px -12px rgb(0 0 0 / .6);
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #16110e; --surface: #201813; --surface-2: #2a201a; --ink: #f4ebe5; --muted: #b19f93;
-    --line: #3a2d25; --accent: #ff8a3d; --accent-ink: #2b1100; --accent-soft: #3e2516;
-    --mark: #ff8a3d; --mark-ink: #2b1100; --amazon: #ff8a3d; --amazon-ink: #2b1100;
-  --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 8px 24px -12px rgb(0 0 0 / .6);
-  color-scheme: dark;
-}
+:root { color-scheme: light; }
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
@@ -61,12 +46,12 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--surface) 92%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
 .top .wrap { display: flex; align-items: center; gap: 16px; min-height: 64px; flex-wrap: wrap; }
 .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); font: 800 1.2rem/1 var(--f-display); }
-.logo-mark { width: 34px; height: 34px; border-radius: 9px; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; }
+.logo-mark { width: 34px; height: 34px; border-radius: 9px; background: #ea580c; color: #ffffff; display: grid; place-items: center; }
 .logo-mark svg { width: 20px; height: 20px; }
 .nav { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; min-width: 0; }
 .nav a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: .95rem; padding: 8px 12px; border-radius: 999px; }
 .nav a:hover, .nav a[aria-current="page"] { background: var(--surface-2); }
-.nav .nav-video { background: var(--ink); color: var(--bg); }
+.nav .nav-video { background: var(--accent); color: var(--accent-ink); }
 .nav .nav-video:hover { background: var(--accent); color: var(--accent-ink); }
 @media (max-width: 640px) {
   .top .wrap { padding-block: 10px; gap: 8px; }
@@ -142,11 +127,11 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .empty { padding: 40px 20px; text-align: center; color: var(--muted); border: 2px dashed var(--line); border-radius: var(--r); }
 
 /* Comparador */
-.tray { position: fixed; left: 0; right: 0; bottom: 0; z-index: 25; background: var(--ink); color: var(--bg); padding: 12px var(--gutter-r) calc(12px + env(safe-area-inset-bottom, 0px)) var(--gutter-l); display: flex; align-items: center; gap: 12px; flex-wrap: wrap; transform: translateY(110%); transition: transform .25s; }
+.tray { position: fixed; left: 0; right: 0; bottom: 0; z-index: 25; background: var(--surface); color: var(--ink); border-top: 2px solid var(--accent); box-shadow: 0 -8px 24px -12px rgb(36 24 19 / .25); padding: 12px var(--gutter-r) calc(12px + env(safe-area-inset-bottom, 0px)) var(--gutter-l); display: flex; align-items: center; gap: 12px; flex-wrap: wrap; transform: translateY(110%); transition: transform .25s; }
 .tray.on { transform: none; }
 .tray-items { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; min-width: 0; }
-.tray-items span { font: 600 .85rem var(--f-mono); background: color-mix(in srgb, var(--bg) 14%, transparent); padding: 6px 10px; border-radius: 6px; }
-.tray .btn { background: var(--mark); color: var(--mark-ink); }
+.tray-items span { font: 600 .85rem var(--f-mono); background: var(--accent-soft); padding: 6px 10px; border-radius: 6px; }
+.tray .btn { background: var(--accent); color: var(--accent-ink); }
 .tray .link { background: none; border: 0; color: inherit; text-decoration: underline; cursor: pointer; font: inherit; }
 
 dialog { border: 0; border-radius: 18px; padding: 0; max-width: min(920px, calc(100vw - 32px)); width: 100%; background: var(--surface); color: var(--ink); box-shadow: 0 30px 80px -20px rgb(0 0 0 / .5); }
@@ -166,13 +151,13 @@ dialog::backdrop { background: rgb(20 12 8 / .55); backdrop-filter: blur(3px); }
 .guide { display: flex; flex-direction: column; gap: 10px; padding: 22px; border-radius: var(--r); background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--ink); }
 .guide:hover { border-color: var(--accent); }
 .guide .nums { font: 600 .8rem var(--f-mono); color: var(--accent); }
-.video-band { background: var(--ink); color: var(--bg); border-top: 0; }
-.video-band .eyebrow { color: var(--mark); }
-.video-band p { color: color-mix(in srgb, var(--bg) 78%, transparent); max-width: 40em; }
+.video-band { background: var(--accent-soft); color: var(--ink); border-top: 0; }
+.video-band .eyebrow { color: var(--accent); }
+.video-band p { color: var(--muted); max-width: 40em; }
 .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 16px; margin-top: 24px; list-style: none; padding: 0; counter-reset: s; }
-.steps li { counter-increment: s; padding: 18px; border-radius: var(--r); border: 1px solid color-mix(in srgb, var(--bg) 22%, transparent); }
-.steps li::before { content: "Paso " counter(s); display: block; font: 600 .75rem var(--f-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--mark); margin-bottom: 6px; }
-.video-band .btn { background: var(--mark); color: var(--mark-ink); margin-top: 24px; }
+.steps li { counter-increment: s; padding: 18px; border-radius: var(--r); border: 1px solid var(--line); background: var(--surface); }
+.steps li::before { content: "Paso " counter(s); display: block; font: 600 .75rem var(--f-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); margin-bottom: 6px; }
+.video-band .btn { background: var(--accent); color: var(--accent-ink); margin-top: 24px; }
 
 /* Ficha de producto */
 .crumbs { font-size: .9rem; color: var(--muted); padding-block: 20px 0; }
