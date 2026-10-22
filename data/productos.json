@@ -1598,7 +1598,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/aspirador-de-mano-coche-servomaster-sm01.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 48,
@@ -1628,7 +1630,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/soporte-movil-coche-jeezao-anillo-magnetico.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 49,
@@ -1659,7 +1663,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/organizador-maletero-k-knodel.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 50,
@@ -1690,7 +1696,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/compresor-portatil-servomaster-sm02.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 51,
@@ -1720,7 +1728,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/manta-ignifuga-wucgea.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 52,
@@ -1751,7 +1761,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/luces-led-sensor-movimiento-vicloon.webp",
+    "imagenIlustrativa": true
   },
   {
     "numero": 53,
@@ -1781,6 +1793,8 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "imagen": "assets/img/pulsioximetro-de-dedo-shyonda.webp",
+    "imagenIlustrativa": true
   }
 ]
