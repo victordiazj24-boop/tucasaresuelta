@@ -91,19 +91,23 @@ function card(p, base) {
 </article>`;
 }
 
-function layout({ title, description, base, canonical, body, current = "", jsonld, noindex, preview }) {
-  const fullTitle = title === cfg.nombre ? `${cfg.nombre} · ${cfg.eslogan}` : `${title} · ${cfg.nombre}`;
+function layout({ title, description, base, canonical, body, current = "", jsonld, noindex, preview, image, type = "website", fullTitle: ft }) {
+  const fullTitle = ft || (title === cfg.nombre ? `${cfg.nombre} · ${cfg.eslogan}` : `${title} · ${cfg.nombre}`);
+  const ogImage = image ? (/^https?:/.test(image) ? image : `${cfg.dominio}/${image}`) : `${cfg.dominio}/assets/img/compartir.jpg`;
   const navItem = (href, label, key, cls = "") => `<a class="${cls}" href="${base}${href}"${current === key ? ' aria-current="page"' : ""}>${label}</a>`;
   const head = `<title>${esc(preview ? cfg.nombre : fullTitle)}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="${esc(description)}">
 ${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" href="${cfg.dominio}/${canonical}">`}
-<meta property="og:type" content="website">
+<meta property="og:type" content="${type}">
+<meta property="og:locale" content="es_ES">
 <meta property="og:site_name" content="${esc(cfg.nombre)}">
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${cfg.dominio}/${canonical}">
+<meta property="og:image" content="${ogImage}">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#c2410c">
 <link rel="icon" href="${base}favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -150,6 +154,7 @@ ${content}
 
 // ---------- páginas ----------
 const pages = [];
+const redirects = []; // direcciones antiguas de productos que se renombraron
 const add = (file, html) => pages.push([file, html]);
 
 function homeBody(base) {
@@ -224,13 +229,25 @@ function guideCard(g, base) {
   return `<a class="guide" href="${base}${g.ruta}"><span class="nums">${g.productos.length} productos · ${g.productos.map((n) => "Nº " + num2(n)).slice(0, 4).join(", ")}${g.productos.length > 4 ? "…" : ""}</span><h3>${esc(g.titulo)}</h3><p class="muted">${esc(g.descripcion)}</p></a>`;
 }
 
+const crumbsLd = (items) => ({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: items.map(([name, url], i) => ({ "@type": "ListItem", position: i + 1, name, item: `${cfg.dominio}/${url}` })) });
 const itemList = (list, name) => ({
   "@context": "https://schema.org", "@type": "ItemList", name,
   itemListElement: list.map((p, i) => ({ "@type": "ListItem", position: i + 1, url: `${cfg.dominio}/producto/${p.slug}.html`, name: p.nombre })),
 });
 
-add("index.html", layout({ title: cfg.nombre, description: cfg.descripcion, base: "", canonical: "", current: "home", body: homeBody(""), jsonld: [{ "@context": "https://schema.org", "@type": "WebSite", name: cfg.nombre, url: cfg.dominio }, itemList(prods, "Productos para el hogar")] }));
+add("index.html", layout({ title: cfg.nombre, fullTitle: `${cfg.nombre} · Los mejores productos de Amazon para casa, explicados`, description: cfg.descripcion, base: "", canonical: "", current: "home", body: homeBody(""), jsonld: [{ "@context": "https://schema.org", "@type": "WebSite", name: cfg.nombre, url: cfg.dominio }, itemList(prods, "Productos para el hogar")] }));
 add("preview.html", layout({ title: cfg.nombre, description: cfg.descripcion, base: "", canonical: "", current: "home", body: homeBody(""), preview: true, noindex: true }));
+
+// Texto extra (secciones y preguntas frecuentes) para guías y categorías
+function extra(o) {
+  const secs = o.secciones || [], faq = o.faq || [];
+  if (!secs.length && !faq.length) return "";
+  return `<section class="band"><div class="wrap prose">
+${secs.map((x) => `<h2>${esc(x.titulo)}</h2>${x.texto.split("\n\n").map((t) => `<p>${esc(t)}</p>`).join("")}`).join("\n")}
+${faq.length ? `<h2>Preguntas frecuentes</h2>${faq.map((x) => `<h3>${esc(x.q)}</h3><p>${esc(x.a)}</p>`).join("")}` : ""}
+</div></section>`;
+}
+const faqLd = (o) => (o.faq && o.faq.length ? [{ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: o.faq.map((x) => ({ "@type": "Question", name: x.q, acceptedAnswer: { "@type": "Answer", text: x.a } })) }] : []);
 
 // Fichas de producto
 for (const p of prods) {
@@ -263,16 +280,22 @@ for (const p of prods) {
 ${related.length ? `<section class="band"><div class="wrap"><div class="band-head"><h2>También te puede interesar</h2></div><div class="grid">${related.map((x) => card(x, base)).join("")}</div></div></section>` : ""}`;
   const jsonld = { "@context": "https://schema.org", "@type": "Product", name: p.nombre, description: p.resumen, brand: { "@type": "Brand", name: p.marca }, category: c.nombre };
   if (p.imagen) jsonld.image = /^https?:/.test(p.imagen) ? p.imagen : `${cfg.dominio}/${p.imagen}`;
-  add(`producto/${p.slug}.html`, layout({ title: p.nombre, description: `${p.resumen} ${p.idealPara ? "Ideal para: " + p.idealPara : ""}`.trim(), base, canonical: `producto/${p.slug}.html`, body, jsonld }));
+  const img = p.imagen && !/</.test(p.imagen) ? p.imagen : "";
+  add(`producto/${p.slug}.html`, layout({ title: p.nombre, fullTitle: `${p.nombre}: opinión, ventajas y desventajas`, description: `${p.resumen} Lo mejor, lo que hay que tener en cuenta y para quién es.`, base, canonical: `producto/${p.slug}.html`, body, image: img, type: "article", jsonld: [jsonld, crumbsLd([["Inicio", ""], [c.nombre, `categoria/${c.slug}.html`], [p.nombre, `producto/${p.slug}.html`]])] }));
+  for (const old of p.slugsAnteriores || []) {
+    const to = `${p.slug}.html`;
+    redirects.push([`producto/${old}.html`, `<!doctype html><html lang="es"><head><meta charset="utf-8"><title>${esc(p.nombre)}</title><link rel="canonical" href="${cfg.dominio}/producto/${to}"><meta http-equiv="refresh" content="0; url=${to}"></head><body><a href="${to}">${esc(p.nombre)}</a></body></html>`]);
+  }
 }
 
 // Categorías
 for (const c of cats) {
   const base = "../";
   const list = prods.filter((p) => p.categoria === c.slug);
-  const body = `<section class="hero"><div class="wrap"><p class="eyebrow">Categoría · ${list.length} productos</p><h1>${esc(c.nombre)}</h1><p class="hero-lead">${esc(c.intro)}</p></div></section>
-<section class="catalog"><div class="wrap"><div class="grid">${list.map((p) => card(p, base)).join("\n")}</div>${list.length ? "" : '<p class="empty">Pronto habrá productos aquí.</p>'}</div></section>`;
-  add(`categoria/${c.slug}.html`, layout({ title: `${c.nombre}: productos recomendados`, description: c.intro, base, canonical: `categoria/${c.slug}.html`, current: "cat-" + c.slug, body, jsonld: itemList(list, c.nombre) }));
+  const body = `<section class="hero"><div class="wrap"><p class="eyebrow">Categoría · ${list.length} productos</p><h1>${esc(c.titulo || c.nombre)}</h1><p class="hero-lead">${esc(c.intro)}</p></div></section>
+<section class="catalog"><div class="wrap"><div class="grid">${list.map((p) => card(p, base)).join("\n")}</div>${list.length ? "" : '<p class="empty">Pronto habrá productos aquí.</p>'}</div></section>
+${extra(c)}`;
+  add(`categoria/${c.slug}.html`, layout({ title: c.titulo || `${c.nombre}: productos recomendados`, description: c.intro, base, canonical: `categoria/${c.slug}.html`, current: "cat-" + c.slug, body, jsonld: [itemList(list, c.nombre), crumbsLd([["Inicio", ""], [c.nombre, `categoria/${c.slug}.html`]]), ...faqLd(c)] }));
 }
 
 // Guías (incluye la entrada antigua del blog con su misma URL)
@@ -284,9 +307,11 @@ for (const g of guias) {
 <section class="hero"><div class="wrap"><p class="eyebrow">Guía · ${new Date(g.fecha).toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" })}</p><h1>${esc(g.titulo)}</h1><p class="hero-lead">${esc(g.intro)}</p></div></section>
 <section class="catalog"><div class="wrap"><ol class="rank">
 ${list.map((p, i) => `<li class="rank-item">${visual(p, base)}<div class="body"><p class="eyebrow">Puesto ${i + 1} · ${esc(catOf(p.categoria).nombre)}</p><h2><a href="${base}producto/${p.slug}.html">${esc(p.nombre)}</a></h2><p>${esc(p.porQue)}</p>${p.idealPara ? `<p class="muted"><strong>Ideal para:</strong> ${esc(p.idealPara)}</p>` : ""}<div class="pd-cta">${buyBtn(p)}<a class="btn btn-ghost" href="${base}producto/${p.slug}.html">Ficha completa</a></div></div></li>`).join("\n")}
-</ol></div></section>`;
-  const jsonld = [{ "@context": "https://schema.org", "@type": "Article", headline: g.titulo, description: g.descripcion, datePublished: g.fecha, author: { "@type": "Organization", name: cfg.nombre } }, itemList(list, g.titulo)];
-  add(g.ruta, layout({ title: g.titulo, description: g.descripcion, base, canonical: g.ruta, current: "guias", body, jsonld }));
+</ol></div></section>
+${extra(g)}`;
+  const first = list.find((p) => p.imagen && !/</.test(p.imagen));
+  const jsonld = [{ "@context": "https://schema.org", "@type": "Article", headline: g.titulo, description: g.descripcion, datePublished: g.fecha, dateModified: g.actualizada || g.fecha, author: { "@type": "Organization", name: cfg.nombre, url: cfg.dominio }, publisher: { "@type": "Organization", name: cfg.nombre, url: cfg.dominio } }, itemList(list, g.titulo), crumbsLd([["Inicio", ""], ["Guías", "guias.html"], [g.titulo, g.ruta]]), ...faqLd(g)];
+  add(g.ruta, layout({ title: g.titulo, description: g.descripcion, base, canonical: g.ruta, current: "guias", body, jsonld, type: "article", image: first ? first.imagen : "" }));
 }
 add("guias.html", layout({ title: "Guías de compra para el hogar", description: "Listas y guías para elegir rápido productos de Amazon para casa.", base: "", canonical: "guias.html", current: "guias", body: `<section class="hero"><div class="wrap"><p class="eyebrow">${guias.length} guías</p><h1>Guías para elegir sin perder la tarde</h1><p class="hero-lead">Cada guía agrupa los productos que resuelven un mismo problema, ordenados por lo que más se nota en el día a día.</p></div></section><section class="catalog"><div class="wrap"><div class="guides">${guias.map((g) => guideCard(g, "")).join("")}</div></div></section>` }));
 
@@ -336,6 +361,7 @@ for (const [file, html] of pages) {
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   fs.writeFileSync(dest, html);
 }
+for (const [file, html] of redirects) if (!fs.existsSync(path.join(OUT, file))) fs.writeFileSync(path.join(OUT, file), html);
 fs.mkdirSync(path.join(OUT, "assets"), { recursive: true });
 fs.copyFileSync(path.join(ROOT, "src/style.css"), path.join(OUT, "assets/style.css"));
 fs.copyFileSync(path.join(ROOT, "src/app.js"), path.join(OUT, "assets/app.js"));

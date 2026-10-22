@@ -1,8 +1,92 @@
 [
-  { "slug": "cocina", "nombre": "Cocina", "icono": "cocina", "intro": "Aparatos y utensilios que te ahorran tiempo, aceite y espacio en la cocina." },
-  { "slug": "limpieza", "nombre": "Limpieza", "icono": "limpieza", "intro": "Para limpiar más rápido y con menos esfuerzo: suelos, cristales, ropa y tapicería." },
-  { "slug": "aire", "nombre": "Aire y humedad", "icono": "aire", "intro": "Purificadores y deshumidificadores para respirar mejor y acabar con el moho." },
-  { "slug": "orden", "nombre": "Orden", "icono": "orden", "intro": "Organizadores que hacen que cada cosa tenga su sitio y se vea de un vistazo." },
-  { "slug": "casa-inteligente", "nombre": "Casa inteligente", "icono": "inteligente", "intro": "Controla aparatos desde el móvil o con la voz y ahorra en la factura." },
-  { "slug": "seguridad", "nombre": "Seguridad y salud", "icono": "seguridad", "intro": "Pequeños aparatos que te ayudan a cuidarte a ti y a los tuyos, en casa y en el coche." }
+  {
+    "slug": "cocina",
+    "nombre": "Cocina",
+    "icono": "cocina",
+    "intro": "Aparatos y utensilios que te ahorran tiempo, aceite y espacio en la cocina.",
+    "titulo": "Productos de cocina recomendados: calidad-precio",
+    "faq": [
+      {
+        "q": "¿Qué aparatos de cocina merecen la pena?",
+        "a": "Los que usas cada semana y ahorran tiempo: freidora de aire, picadora, hervidor y una buena sartén. Los demás suelen acabar en un armario."
+      },
+      {
+        "q": "¿Freidora de aire de qué tamaño?",
+        "a": "Para una o dos personas, de 3 a 4 litros. Para familias, de 5 litros o más."
+      }
+    ]
+  },
+  {
+    "slug": "limpieza",
+    "nombre": "Limpieza",
+    "icono": "limpieza",
+    "intro": "Para limpiar más rápido y con menos esfuerzo: suelos, cristales, ropa y tapicería.",
+    "titulo": "Productos de limpieza para el hogar que ahorran tiempo",
+    "faq": [
+      {
+        "q": "¿Qué producto de limpieza ahorra más tiempo?",
+        "a": "Un robot aspirador que pase a diario. Después, una escoba sin cable y una fregona con cubo centrifugador."
+      },
+      {
+        "q": "¿Cómo limpiar cristales sin dejar marcas?",
+        "a": "Con un limpiacristales eléctrico que aspira el agua, o con paños de microfibra limpios y sin suavizante."
+      }
+    ]
+  },
+  {
+    "slug": "aire",
+    "nombre": "Aire y humedad",
+    "icono": "aire",
+    "intro": "Purificadores y deshumidificadores para respirar mejor y acabar con el moho.",
+    "titulo": "Humedad, purificadores y calefacción: recomendados",
+    "faq": [
+      {
+        "q": "¿Cómo quitar la humedad de una habitación?",
+        "a": "Ventila a diario y, si la humedad pasa del 60 %, usa un deshumidificador eléctrico. Para armarios y baños pequeños, un absorbe humedad."
+      },
+      {
+        "q": "¿Para qué sirve un purificador de aire?",
+        "a": "Filtra polvo, polen, pelo de mascota y olores. Es útil sobre todo si hay alergias en casa."
+      }
+    ]
+  },
+  {
+    "slug": "orden",
+    "nombre": "Orden",
+    "icono": "orden",
+    "intro": "Organizadores que hacen que cada cosa tenga su sitio y se vea de un vistazo.",
+    "titulo": "Organizadores para casa: ordena y gana espacio",
+    "faq": [
+      {
+        "q": "¿Cómo ordenar una casa pequeña?",
+        "a": "Aprovecha debajo de la cama, usa perchas finas, guarda la ropa de temporada en bolsas de vacío y usa botes apilables en la despensa."
+      }
+    ]
+  },
+  {
+    "slug": "casa-inteligente",
+    "nombre": "Casa inteligente",
+    "icono": "inteligente",
+    "intro": "Controla aparatos desde el móvil o con la voz y ahorra en la factura.",
+    "titulo": "Casa inteligente barata: enchufes, bombillas y más",
+    "faq": [
+      {
+        "q": "¿Cuál es el dispositivo inteligente más útil para empezar?",
+        "a": "Un enchufe inteligente: es barato, se instala en segundos y permite apagar aparatos a distancia o con horario."
+      }
+    ]
+  },
+  {
+    "slug": "seguridad",
+    "nombre": "Seguridad y salud",
+    "icono": "seguridad",
+    "intro": "Pequeños aparatos que te ayudan a cuidarte a ti y a los tuyos, en casa y en el coche.",
+    "titulo": "Seguridad en casa y en el coche: detectores, V16 y más",
+    "faq": [
+      {
+        "q": "¿Qué no puede faltar en casa?",
+        "a": "Detector de humo, detector de monóxido si hay caldera o estufa de gas, un extintor pequeño en la cocina y un botiquín."
+      }
+    ]
+  }
 ]

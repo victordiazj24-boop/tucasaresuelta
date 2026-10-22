@@ -27,6 +27,8 @@ Reglas sencillas:
 - Si pegas un enlace largo de amazon.es, el tag `casaresuelta-21` se añade solo. Los enlaces cortos de SiteStripe ya lo llevan.
 - Cada producto es un **modelo concreto** con enlace directo (`https://www.amazon.es/dp/ASIN` o el enlace corto de SiteStripe). No uses enlaces de búsqueda ni productos genéricos.
 - Para que salga en la portada arriba, pon `"destacado": true`.
+- Si cambias el `slug` de un producto ya publicado, añade el antiguo en `"slugsAnteriores"`: la dirección vieja redirige sola a la nueva.
+- Las guías y categorías admiten `"secciones"` (título y texto) y `"faq"` (preguntas y respuestas). Es el texto que más ayuda a salir en Google.
 - Cuando publiques el TikTok o el Short, pega su enlace en `videos.tiktok` / `videos.youtube` y vuelve a generar: aparecerá un botón en la ficha.
 - **Imagen (opcional):** usa la imagen que da SiteStripe (pestaña "Imagen") o una foto tuya en `src/img/` y escribe `"imagen": "assets/img/nombre.jpg"`. No descargues fotos de Amazon a mano: sus normas lo prohíben.
 - **No pongas precios.** Amazon solo permite mostrarlos si se actualizan automáticamente; por eso los botones dicen "Ver precio en Amazon".

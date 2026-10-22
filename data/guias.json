@@ -16,7 +16,32 @@
       9,
       10
     ],
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "actualizada": "2026-10-22",
+    "secciones": [
+      {
+        "titulo": "Cómo hemos elegido estos productos",
+        "texto": "Buscamos productos que resuelvan un problema que se repite todas las semanas en casa: cocinar, limpiar, ordenar o respirar mejor. Damos prioridad a los que tienen buena valoración en Amazon, muchas opiniones y un precio razonable para lo que hacen.\n\nNo ponemos precios porque cambian cada día. En cada producto, el botón te lleva a Amazon, donde ves el precio de hoy, las opiniones reales y el plazo de envío."
+      },
+      {
+        "titulo": "Por cuál empezar",
+        "texto": "Si solo vas a comprar uno, empieza por el que ataque lo que más tiempo te quita. Si cocinas a diario, la freidora de aire. Si lo que más te pesa es barrer y fregar, el robot aspirador. Si tu casa tiene humedad o moho, el deshumidificador. Son los tres que más se notan desde el primer día."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Merece la pena una freidora de aire?",
+        "a": "Sí, si cocinas a menudo raciones pequeñas o medianas. Gasta mucho menos aceite que una freidora normal, calienta antes que el horno y la cesta se limpia en poco tiempo."
+      },
+      {
+        "q": "¿Los robots aspiradores baratos funcionan?",
+        "a": "Para el mantenimiento diario, sí. Un modelo de gama media con mapeo y función de fregado mantiene el suelo limpio si lo pasas a diario; no sustituye a una limpieza a fondo de vez en cuando."
+      },
+      {
+        "q": "¿Dónde veo el precio?",
+        "a": "En Amazon. Pulsa el botón de cada producto y verás el precio actualizado, las opiniones y el envío."
+      }
+    ]
   },
   {
     "ruta": "guias/acabar-con-la-humedad-en-casa.html",
@@ -31,7 +56,31 @@
       31,
       5
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "Por qué aparece la humedad en casa",
+        "texto": "Cocinar, ducharse, secar ropa dentro y hasta respirar llenan el aire de vapor de agua. Cuando ese vapor toca una pared o un cristal frío, se condensa. Si pasa a diario, aparecen las gotas en las ventanas, el olor a cerrado y, al final, las manchas negras de moho.\n\nLo ideal es mantener la humedad entre el 40 y el 60 %. Por encima del 60 % el moho lo tiene fácil."
+      },
+      {
+        "titulo": "Qué hacer, paso a paso",
+        "texto": "Primero mide: un termohigrómetro barato te dice la humedad real de cada habitación. Después ventila 10 minutos al día, mejor con corriente cruzada. Si aun así pasas del 60 %, un deshumidificador eléctrico es lo que más agua saca del aire. Para armarios y baños pequeños, los absorbehumedad sin enchufe son suficientes. Y por las mañanas, un limpiacristales de batería quita la condensación de las ventanas antes de que gotee."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué humedad es normal en una casa?",
+        "a": "Entre el 40 y el 60 %. Por debajo, el aire reseca la garganta y la piel; por encima, aparecen condensación y moho."
+      },
+      {
+        "q": "¿Deshumidificador o absorbe humedad?",
+        "a": "El deshumidificador eléctrico es para habitaciones o pisos enteros con humedad alta. El absorbe humedad sin enchufe sirve para espacios pequeños y cerrados, como armarios, baños o trasteros."
+      },
+      {
+        "q": "¿El deshumidificador ayuda a secar la ropa?",
+        "a": "Sí. Al sacar el agua del aire, la ropa tendida dentro de casa se seca bastante antes, algo muy útil en invierno."
+      }
+    ]
   },
   {
     "ruta": "guias/cocina-pequena-bien-aprovechada.html",
@@ -48,7 +97,27 @@
       9,
       11
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "La regla de oro en una cocina pequeña",
+        "texto": "Todo lo que no uses cada semana, fuera de la encimera. Lo que sí uses, que se apile, se cuelgue o se guarde dentro de otra cosa. Por eso funcionan tan bien las sartenes de mango desmontable, los botes herméticos apilables y los organizadores transparentes: ganas espacio y además ves lo que tienes."
+      },
+      {
+        "titulo": "Aparatos que sí compensan",
+        "texto": "En poco espacio, cada aparato tiene que ganarse su sitio. La freidora de aire sustituye al horno en muchas recetas. Una picadora pequeña ahorra tiempo cada día y se guarda en un cajón. La báscula y el termómetro ocupan casi nada y evitan fallos al cocinar."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cómo ganar espacio en una cocina pequeña?",
+        "a": "Apila lo que puedas (sartenes, botes), usa organizadores dentro de los armarios y la nevera, y deja en la encimera solo lo que uses a diario."
+      },
+      {
+        "q": "¿Las sartenes de mango desmontable valen para inducción?",
+        "a": "Muchos juegos sí, pero no todos. Comprueba en la ficha de Amazon que el modelo que eliges indica compatibilidad con inducción."
+      }
+    ]
   },
   {
     "ruta": "guias/limpiar-la-casa-en-la-mitad-de-tiempo.html",
@@ -64,7 +133,27 @@
       21,
       7
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "El método: que las máquinas hagan lo diario",
+        "texto": "El truco para limpiar en la mitad de tiempo es separar lo diario de lo semanal. Lo diario (polvo y migas del suelo) lo hace el robot aspirador mientras no estás. Para los repasos rápidos, una escoba sin cable que esté siempre cargada. Así el fin de semana solo queda lo puntual: baño, cristales y alguna mancha."
+      },
+      {
+        "titulo": "Lo que más tiempo ahorra",
+        "texto": "La fregona con cubo centrifugador evita escurrir a mano y el suelo seca antes. La limpiadora a vapor quita la grasa y la cal sin productos químicos. Un cepillo eléctrico frota juntas y bañera por ti. Y unos buenos paños de microfibra atrapan el polvo en lugar de moverlo de sitio."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Robot aspirador o escoba sin cable?",
+        "a": "Se complementan. El robot mantiene el suelo limpio cada día sin que hagas nada; la escoba sin cable es para los repasos rápidos, las escaleras, el sofá y el coche."
+      },
+      {
+        "q": "¿La limpieza a vapor sirve para todos los suelos?",
+        "a": "No. Va muy bien en baldosa, gres y juntas, pero no se recomienda en madera sin sellar ni en algunos laminados. Mira las indicaciones de tu suelo."
+      }
+    ]
   },
   {
     "ruta": "guias/ganar-espacio-en-casa.html",
@@ -81,7 +170,27 @@
       4,
       31
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "Dónde se esconde el espacio",
+        "texto": "En casi todas las casas hay tres zonas desaprovechadas: debajo de la cama, la parte alta de los armarios y el interior de los muebles de cocina. Las cajas bajo la cama, las bolsas de vacío para la ropa de temporada y las perchas finas liberan muchísimo sitio sin hacer obras."
+      },
+      {
+        "titulo": "Por dónde empezar",
+        "texto": "Empieza por el armario: cambiar las perchas por unas de terciopelo finas puede liberar casi la mitad de la barra. Después guarda edredones y ropa de otra temporada en bolsas de vacío. Y por último, ordena la despensa con botes apilables que dejan ver lo que hay."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Las bolsas de vacío estropean la ropa?",
+        "a": "No, aunque la ropa sale algo arrugada. No conviene guardar así prendas de plumas o lana delicada durante muchos meses."
+      },
+      {
+        "q": "¿Cuánto espacio se gana con perchas finas?",
+        "a": "Bastante: ocupan mucho menos que las de plástico o madera y la ropa no resbala, así que caben muchas más prendas en la misma barra."
+      }
+    ]
   },
   {
     "ruta": "guias/casa-inteligente-barata.html",
@@ -94,7 +203,27 @@
       26,
       28
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "Qué necesitas para empezar",
+        "texto": "Con un altavoz inteligente y un par de enchufes o bombillas wifi ya puedes encender y apagar cosas con la voz o con horarios. No hace falta obra ni instalador: todo se configura desde el móvil en unos minutos."
+      },
+      {
+        "titulo": "Dónde se nota el ahorro",
+        "texto": "Un enchufe o una regleta inteligente corta el consumo en espera de la tele, la consola o el router por la noche. Los cabezales termostáticos programan la calefacción por habitaciones. Y los sensores de temperatura y humedad te dicen cuándo encender o apagar."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito un hub para la casa inteligente?",
+        "a": "Para enchufes, regletas y bombillas wifi, normalmente no. Algunos sensores y cabezales termostáticos sí lo necesitan; la ficha de Amazon lo indica."
+      },
+      {
+        "q": "¿Funciona con Alexa y con Google?",
+        "a": "La mayoría de los productos de esta guía funcionan con los dos asistentes. Revisa la compatibilidad en la ficha antes de comprar."
+      }
+    ]
   },
   {
     "ruta": "guias/casa-con-mascotas.html",
@@ -108,7 +237,23 @@
       5,
       6
     ],
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "secciones": [
+      {
+        "titulo": "El pelo, bajo control",
+        "texto": "Con perro o gato el pelo aparece en el suelo, el sofá, la ropa y el aire. Lo que mejor funciona es combinar tres cosas: un robot aspirador que pase a diario, un quitapelos reutilizable para sofás y camas, y un purificador con filtro HEPA si alguien en casa tiene alergia."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué robot aspirador va mejor con mascotas?",
+        "a": "Uno con buena succión, cepillo que no se enrede con el pelo y depósito fácil de vaciar. Pasarlo a diario es lo que más se nota."
+      },
+      {
+        "q": "¿Un purificador ayuda con la alergia al pelo de gato?",
+        "a": "Ayuda a reducir el pelo y la caspa en el aire si tiene filtro HEPA y es del tamaño adecuado para la habitación, pero no sustituye a la limpieza ni al consejo médico."
+      }
+    ]
   },
   {
     "ruta": "guias/casa-y-coche-seguros.html",
@@ -124,6 +269,69 @@
       34,
       45
     ],
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "secciones": [
+      {
+        "titulo": "Lo mínimo para una casa segura",
+        "texto": "Un detector de humo en el pasillo y otro cerca de los dormitorios, un detector de monóxido si tienes caldera, calentador o estufa de gas o leña, un extintor pequeño en la cocina y un botiquín completo. Todo junto cuesta poco y se instala en una tarde."
+      },
+      {
+        "titulo": "Y en el coche",
+        "texto": "Desde el 1 de enero de 2026 la DGT exige llevar la luz V16 conectada en lugar de los triángulos. Se coloca desde la ventanilla y avisa de tu posición. Añade un botiquín y, si quieres salir de dudas antes de conducir, un alcoholímetro orientativo."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Es obligatoria la baliza V16?",
+        "a": "Sí. Desde el 1 de enero de 2026 en España la luz V16 conectada sustituye a los triángulos de emergencia."
+      },
+      {
+        "q": "¿Dónde se pone el detector de humo?",
+        "a": "En el techo del pasillo y cerca de los dormitorios. Evita ponerlo justo encima de la cocina o del baño, porque salta con el vapor."
+      },
+      {
+        "q": "¿Un alcoholímetro casero es fiable?",
+        "a": "Es orientativo. Sirve para salir de dudas, pero no sustituye a un control oficial. Lo más seguro es no conducir si has bebido."
+      }
+    ]
+  },
+  {
+    "ruta": "guias/regalos-utiles-y-baratos-para-casa.html",
+    "titulo": "Regalos útiles y baratos para casa (Navidad 2026)",
+    "descripcion": "Ideas de regalo prácticas y económicas para el hogar: cosas que se usan de verdad y que cuestan poco en Amazon.",
+    "intro": "Un regalo para casa acierta cuando se usa todos los días. Hemos reunido productos baratos y muy bien valorados que solucionan algo pequeño pero molesto, perfectos para amigo invisible, Navidad o Reyes.",
+    "productos": [
+      14,
+      28,
+      22,
+      34,
+      41,
+      30,
+      16,
+      25,
+      24,
+      21
+    ],
+    "fecha": "2026-10-22",
+    "secciones": [
+      {
+        "titulo": "Cómo acertar con un regalo para casa",
+        "texto": "Piensa en lo que esa persona repite cada día: cocinar, limpiar, ordenar o conducir. Un termómetro de cocina para quien hace carne a menudo, un quitapelos para quien tiene perro o gato, perchas finas para quien siempre dice que no le cabe la ropa. Son regalos baratos que se agradecen durante años."
+      },
+      {
+        "titulo": "Antes de comprar",
+        "texto": "Los precios en Amazon cambian mucho en noviembre y diciembre, sobre todo alrededor del Black Friday. Pulsa el botón de cada producto para ver el precio de hoy y el plazo de entrega, y compra con margen si es para una fecha concreta."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué regalar para casa por poco dinero?",
+        "a": "Cosas pequeñas que se usan a diario: un termómetro de cocina, un termohigrómetro, un rodillo quitapelos, un detector de humo o un pack de perchas finas."
+      },
+      {
+        "q": "¿Llegará a tiempo para Navidad?",
+        "a": "Depende del vendedor y del envío. En la página de Amazon de cada producto ves la fecha de entrega estimada antes de comprar."
+      }
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "numero": 1,
-    "slug": "freidora-de-aire-cosori",
+    "slug": "freidora-de-aire-cosori-5-7-l",
     "nombre": "Freidora de aire Cosori 5,7 L",
     "marca": "Cosori",
     "categoria": "cocina",
@@ -29,11 +29,14 @@
     },
     "destacado": true,
     "fecha": "2026-09-25",
-    "imagenIlustrativa": true
+    "imagenIlustrativa": true,
+    "slugsAnteriores": [
+      "freidora-de-aire-cosori"
+    ]
   },
   {
     "numero": 2,
-    "slug": "robot-aspirador-roborock",
+    "slug": "robot-aspirador-y-friegasuelos-roborock-q10-s5",
     "nombre": "Robot aspirador y friegasuelos roborock Q10 S5",
     "marca": "roborock",
     "categoria": "limpieza",
@@ -61,7 +64,10 @@
     },
     "destacado": true,
     "fecha": "2026-09-25",
-    "imagenIlustrativa": true
+    "imagenIlustrativa": true,
+    "slugsAnteriores": [
+      "robot-aspirador-roborock"
+    ]
   },
   {
     "numero": 3,
@@ -96,7 +102,7 @@
   },
   {
     "numero": 4,
-    "slug": "sartenes-tefal-ingenio",
+    "slug": "sartenes-tefal-ingenio-unlimited-on",
     "nombre": "Sartenes Tefal Ingenio Unlimited On (22 y 26 cm)",
     "marca": "Tefal",
     "categoria": "cocina",
@@ -122,11 +128,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "slugsAnteriores": [
+      "sartenes-tefal-ingenio"
+    ]
   },
   {
     "numero": 5,
-    "slug": "purificador-de-aire-levoit-core-300",
+    "slug": "purificador-de-aire-levoit-core-200s",
     "nombre": "Purificador de aire Levoit Core 200S",
     "marca": "Levoit",
     "categoria": "aire",
@@ -152,7 +161,10 @@
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "slugsAnteriores": [
+      "purificador-de-aire-levoit-core-300"
+    ]
   },
   {
     "numero": 6,
@@ -186,7 +198,7 @@
   },
   {
     "numero": 7,
-    "slug": "limpiacristales-karcher-wv",
+    "slug": "limpiacristales-karcher-wv-2-black-edition",
     "nombre": "Limpiacristales Kärcher WV 2 Black Edition",
     "marca": "Kärcher",
     "categoria": "limpieza",
@@ -213,11 +225,14 @@
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "slugsAnteriores": [
+      "limpiacristales-karcher-wv"
+    ]
   },
   {
     "numero": 8,
-    "slug": "organizadores-transparentes-nevera",
+    "slug": "organizadores-transparentes-kichly",
     "nombre": "Organizadores transparentes KICHLY (8 piezas)",
     "marca": "KICHLY",
     "categoria": "orden",
@@ -243,7 +258,10 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "slugsAnteriores": [
+      "organizadores-transparentes-nevera"
+    ]
   },
   {
     "numero": 9,
@@ -277,7 +295,7 @@
   },
   {
     "numero": 10,
-    "slug": "deshumidificador-electrico",
+    "slug": "deshumidificador-cecotec-bigdry-2000",
     "nombre": "Deshumidificador Cecotec BigDry 2000",
     "marca": "Cecotec",
     "categoria": "aire",
@@ -304,11 +322,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "slugsAnteriores": [
+      "deshumidificador-electrico"
+    ]
   },
   {
     "numero": 11,
-    "slug": "envasadora-al-vacio",
+    "slug": "envasadora-al-vacio-bonsenkitchen-de-4-modos",
     "nombre": "Envasadora al vacío Bonsenkitchen de 4 modos",
     "marca": "Bonsenkitchen",
     "categoria": "cocina",
@@ -335,11 +356,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "envasadora-al-vacio"
+    ]
   },
   {
     "numero": 12,
-    "slug": "picadora-electrica",
+    "slug": "picadora-moulinex-moulinette-essential",
     "nombre": "Picadora Moulinex Moulinette Essential",
     "marca": "Moulinex",
     "categoria": "cocina",
@@ -365,11 +389,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "picadora-electrica"
+    ]
   },
   {
     "numero": 13,
-    "slug": "hervidor-de-agua-electrico",
+    "slug": "hervidor-de-agua-aigostar-milo-1-7-l",
     "nombre": "Hervidor de agua Aigostar Milo 1,7 L",
     "marca": "Aigostar",
     "categoria": "cocina",
@@ -396,11 +423,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "hervidor-de-agua-electrico"
+    ]
   },
   {
     "numero": 14,
-    "slug": "termometro-de-cocina-digital",
+    "slug": "termometro-de-cocina-thermopro-tp02s",
     "nombre": "Termómetro de cocina ThermoPro TP02S",
     "marca": "ThermoPro",
     "categoria": "cocina",
@@ -426,11 +456,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "termometro-de-cocina-digital"
+    ]
   },
   {
     "numero": 15,
-    "slug": "botes-hermeticos-despensa",
+    "slug": "botes-hermeticos-vtopmart",
     "nombre": "Botes herméticos Vtopmart (set de 24)",
     "marca": "Vtopmart",
     "categoria": "orden",
@@ -457,11 +490,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "botes-hermeticos-despensa"
+    ]
   },
   {
     "numero": 16,
-    "slug": "especiero-giratorio",
+    "slug": "especiero-giratorio-edihome",
     "nombre": "Especiero giratorio edihome (16 botes)",
     "marca": "edihome",
     "categoria": "orden",
@@ -487,11 +523,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "especiero-giratorio"
+    ]
   },
   {
     "numero": 17,
-    "slug": "mopa-giratoria-con-cubo",
+    "slug": "fregona-vileda-turbo-con-cubo-centrifugador",
     "nombre": "Fregona Vileda Turbo con cubo centrifugador",
     "marca": "Vileda",
     "categoria": "limpieza",
@@ -517,11 +556,14 @@
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "mopa-giratoria-con-cubo"
+    ]
   },
   {
     "numero": 18,
-    "slug": "aspiradora-escoba-sin-cable",
+    "slug": "aspiradora-escoba-cecotec-conga-rockstar-p50-x-treme",
     "nombre": "Aspiradora escoba Cecotec Conga Rockstar P50 X-Treme",
     "marca": "Cecotec",
     "categoria": "limpieza",
@@ -547,11 +589,14 @@
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "aspiradora-escoba-sin-cable"
+    ]
   },
   {
     "numero": 19,
-    "slug": "limpiador-a-vapor",
+    "slug": "limpiadora-a-vapor-karcher-sc-2-easyfix",
     "nombre": "Limpiadora a vapor Kärcher SC 2 EasyFix",
     "marca": "Kärcher",
     "categoria": "limpieza",
@@ -577,11 +622,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "limpiador-a-vapor"
+    ]
   },
   {
     "numero": 20,
-    "slug": "cepillo-electrico-de-limpieza",
+    "slug": "cepillo-electrico-giratorio-inalambrico-leebein",
     "nombre": "Cepillo eléctrico giratorio inalámbrico Leebein",
     "marca": "Leebein",
     "categoria": "limpieza",
@@ -607,11 +655,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "cepillo-electrico-de-limpieza"
+    ]
   },
   {
     "numero": 21,
-    "slug": "panos-de-microfibra",
+    "slug": "panos-de-microfibra-amazon-basics",
     "nombre": "Paños de microfibra Amazon Basics (24 uds)",
     "marca": "Amazon Basics",
     "categoria": "limpieza",
@@ -638,11 +689,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "panos-de-microfibra"
+    ]
   },
   {
     "numero": 22,
-    "slug": "quitapelos-de-mascotas-reutilizable",
+    "slug": "rodillo-quitapelos-reutilizable-ace2ace",
     "nombre": "Rodillo quitapelos reutilizable ACE2ACE",
     "marca": "ACE2ACE",
     "categoria": "limpieza",
@@ -669,11 +723,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "quitapelos-de-mascotas-reutilizable"
+    ]
   },
   {
     "numero": 23,
-    "slug": "cajas-de-almacenaje-bajo-cama",
+    "slug": "cajas-bajo-la-cama-lifewit",
     "nombre": "Cajas bajo la cama Lifewit (3 x 65 L)",
     "marca": "Lifewit",
     "categoria": "orden",
@@ -699,11 +756,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "cajas-de-almacenaje-bajo-cama"
+    ]
   },
   {
     "numero": 24,
-    "slug": "perchas-de-terciopelo",
+    "slug": "perchas-de-terciopelo-amazon-basics",
     "nombre": "Perchas de terciopelo Amazon Basics (50 uds)",
     "marca": "Amazon Basics",
     "categoria": "orden",
@@ -730,11 +790,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "perchas-de-terciopelo"
+    ]
   },
   {
     "numero": 25,
-    "slug": "bolsas-de-vacio-para-ropa",
+    "slug": "bolsas-de-vacio-suoco-con-bomba-electrica",
     "nombre": "Bolsas de vacío SUOCO con bomba eléctrica (8 uds)",
     "marca": "SUOCO",
     "categoria": "orden",
@@ -760,11 +823,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "bolsas-de-vacio-para-ropa"
+    ]
   },
   {
     "numero": 26,
-    "slug": "bombillas-inteligentes-wifi",
+    "slug": "bombillas-inteligentes-tp-link-tapo-l530e",
     "nombre": "Bombillas inteligentes TP-Link Tapo L530E (2 uds)",
     "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
@@ -790,7 +856,10 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "bombillas-inteligentes-wifi"
+    ]
   },
   {
     "numero": 27,
@@ -824,7 +893,7 @@
   },
   {
     "numero": 28,
-    "slug": "sensor-de-temperatura-y-humedad",
+    "slug": "termohigrometro-thermopro-tp49",
     "nombre": "Termohigrómetro ThermoPro TP49",
     "marca": "ThermoPro",
     "categoria": "casa-inteligente",
@@ -850,11 +919,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "sensor-de-temperatura-y-humedad"
+    ]
   },
   {
     "numero": 29,
-    "slug": "absorbe-humedad-recargable",
+    "slug": "absorbe-humedad-humydry-premium-1000-g",
     "nombre": "Absorbe humedad Humydry Premium 1000 g",
     "marca": "Humydry",
     "categoria": "aire",
@@ -880,11 +952,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "absorbe-humedad-recargable"
+    ]
   },
   {
     "numero": 30,
-    "slug": "difusor-de-aromas",
+    "slug": "difusor-cecotec-pure-aroma-300-yang",
     "nombre": "Difusor Cecotec Pure Aroma 300 Yang",
     "marca": "Cecotec",
     "categoria": "aire",
@@ -910,11 +985,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "difusor-de-aromas"
+    ]
   },
   {
     "numero": 31,
-    "slug": "tendedero-plegable",
+    "slug": "tendedero-plegable-leifheit-pegasus-120-solid",
     "nombre": "Tendedero plegable Leifheit Pegasus 120 Solid",
     "marca": "Leifheit",
     "categoria": "orden",
@@ -941,11 +1019,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "tendedero-plegable"
+    ]
   },
   {
     "numero": 32,
-    "slug": "cubos-de-reciclaje",
+    "slug": "cubos-de-basura-apilables-songmics",
     "nombre": "Cubos de basura apilables SONGMICS (3 x 20 L)",
     "marca": "SONGMICS",
     "categoria": "orden",
@@ -971,11 +1052,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "cubos-de-reciclaje"
+    ]
   },
   {
     "numero": 33,
-    "slug": "burlete-bajo-puerta",
+    "slug": "burlete-bajo-puerta-com-four-de-doble-cara",
     "nombre": "Burlete bajo puerta com-four de doble cara",
     "marca": "com-four",
     "categoria": "aire",
@@ -1001,11 +1085,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-21"
+    "fecha": "2026-10-21",
+    "slugsAnteriores": [
+      "burlete-bajo-puerta"
+    ]
   },
   {
     "numero": 34,
-    "slug": "alcoholimetro-camthom",
+    "slug": "alcoholimetro-digital-camthom",
     "nombre": "Alcoholímetro digital Camthom",
     "marca": "Camthom",
     "categoria": "seguridad",
@@ -1032,11 +1119,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "alcoholimetro-camthom"
+    ]
   },
   {
     "numero": 35,
-    "slug": "camara-wifi-interior",
+    "slug": "camara-wifi-tp-link-tapo-c200",
     "nombre": "Cámara wifi TP-Link Tapo C200",
     "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
@@ -1062,11 +1152,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "camara-wifi-interior"
+    ]
   },
   {
     "numero": 36,
-    "slug": "cabezal-termostatico-inteligente",
+    "slug": "cabezal-termostatico-tp-link-kasa-ke100",
     "nombre": "Cabezal termostático TP-Link Kasa KE100 (kit con hub)",
     "marca": "TP-Link Kasa",
     "categoria": "casa-inteligente",
@@ -1092,11 +1185,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "cabezal-termostatico-inteligente"
+    ]
   },
   {
     "numero": 37,
-    "slug": "regleta-inteligente-wifi",
+    "slug": "regleta-inteligente-tp-link-tapo-p300",
     "nombre": "Regleta inteligente TP-Link Tapo P300",
     "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
@@ -1122,11 +1218,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "regleta-inteligente-wifi"
+    ]
   },
   {
     "numero": 38,
-    "slug": "humidificador-ultrasonico",
+    "slug": "humidificador-levoit-dual-150",
     "nombre": "Humidificador Levoit Dual 150 (3 L)",
     "marca": "Levoit",
     "categoria": "aire",
@@ -1152,11 +1251,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "humidificador-ultrasonico"
+    ]
   },
   {
     "numero": 39,
-    "slug": "medidor-co2-calidad-aire",
+    "slug": "medidor-de-co2-temtop-c1",
     "nombre": "Medidor de CO2 Temtop C1",
     "marca": "Temtop",
     "categoria": "aire",
@@ -1183,11 +1285,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "medidor-co2-calidad-aire"
+    ]
   },
   {
     "numero": 40,
-    "slug": "calefactor-ceramico",
+    "slug": "calefactor-ceramico-cecotec-ready-warm-6100",
     "nombre": "Calefactor cerámico Cecotec Ready Warm 6100",
     "marca": "Cecotec",
     "categoria": "aire",
@@ -1213,11 +1318,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "calefactor-ceramico"
+    ]
   },
   {
     "numero": 41,
-    "slug": "detector-de-humo",
+    "slug": "detector-de-humo-x-sense-con-bateria-de-10-anos",
     "nombre": "Detector de humo X-Sense con batería de 10 años",
     "marca": "X-Sense",
     "categoria": "seguridad",
@@ -1243,11 +1351,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "detector-de-humo"
+    ]
   },
   {
     "numero": 42,
-    "slug": "detector-monoxido-de-carbono",
+    "slug": "detector-de-monoxido-x-sense-co03b",
     "nombre": "Detector de monóxido X-Sense CO03B",
     "marca": "X-Sense",
     "categoria": "seguridad",
@@ -1273,11 +1384,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "detector-monoxido-de-carbono"
+    ]
   },
   {
     "numero": 43,
-    "slug": "baliza-v16-conectada",
+    "slug": "luz-v16-conectada-sumex-con-geolocalizacion",
     "nombre": "Luz V16 conectada SUMEX con geolocalización",
     "marca": "SUMEX",
     "categoria": "seguridad",
@@ -1304,11 +1418,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "baliza-v16-conectada"
+    ]
   },
   {
     "numero": 44,
-    "slug": "extintor-domestico",
+    "slug": "extintor-de-polvo-smartwares-1-kg",
     "nombre": "Extintor de polvo Smartwares 1 kg",
     "marca": "Smartwares",
     "categoria": "seguridad",
@@ -1334,11 +1451,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "extintor-domestico"
+    ]
   },
   {
     "numero": 45,
-    "slug": "tensiometro-de-brazo",
+    "slug": "tensiometro-de-brazo-omron-x2-essential",
     "nombre": "Tensiómetro de brazo OMRON X2 Essential",
     "marca": "OMRON",
     "categoria": "seguridad",
@@ -1364,11 +1484,14 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "tensiometro-de-brazo"
+    ]
   },
   {
     "numero": 46,
-    "slug": "botiquin-primeros-auxilios",
+    "slug": "botiquin-active-era-premium",
     "nombre": "Botiquín Active Era Premium (120 piezas)",
     "marca": "Active Era",
     "categoria": "seguridad",
@@ -1395,6 +1518,9 @@
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-10-22"
+    "fecha": "2026-10-22",
+    "slugsAnteriores": [
+      "botiquin-primeros-auxilios"
+    ]
   }
 ]
