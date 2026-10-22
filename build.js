@@ -52,6 +52,7 @@ const ICONS = {
   aire: '<path d="M6 16h22a6 6 0 1 0-6-6"/><path d="M6 26h32a6 6 0 1 1-6 6"/><path d="M6 36h14"/>',
   orden: '<rect x="6" y="8" width="36" height="12" rx="2"/><rect x="6" y="28" width="16" height="12" rx="2"/><rect x="26" y="28" width="16" height="12" rx="2"/><path d="M20 14h8"/>',
   inteligente: '<rect x="12" y="6" width="24" height="36" rx="6"/><circle cx="20" cy="20" r="2"/><circle cx="28" cy="20" r="2"/><path d="M24 30v6"/><path d="M4 18a20 20 0 0 1 0 12M44 18a20 20 0 0 1 0 12"/>',
+  seguridad: '<path d="M24 4 8 10v12c0 10 7 18 16 22 9-4 16-12 16-22V10L24 4z"/><path d="m17 24 5 5 9-10"/>',
 };
 const icon = (name) => `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name] || ICONS.orden}</svg>`;
 const SVG = {
