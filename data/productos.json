@@ -1058,5 +1058,379 @@
     },
     "destacado": false,
     "fecha": "2026-10-22"
+  },
+  {
+    "numero": 35,
+    "slug": "camara-wifi-interior",
+    "nombre": "Cámara wifi de interior",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "Cámara giratoria que ves desde el móvil para vigilar la casa, la mascota o al bebé.",
+    "porQue": "Por muy poco dinero sabes qué pasa en casa cuando no estás. Te avisa si detecta movimiento y puedes hablar a través de ella.",
+    "pros": [
+      "Visión nocturna y giro de 360º",
+      "Aviso al móvil si detecta movimiento",
+      "Audio en los dos sentidos"
+    ],
+    "contras": [
+      "Para grabar continuo necesitas tarjeta microSD o suscripción",
+      "Necesita wifi de 2,4 GHz en muchos modelos"
+    ],
+    "idealPara": "Vigilar la casa, mascotas o la habitación del bebé.",
+    "enlace": "https://www.amazon.es/s?k=camara+wifi+interior+360",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 36,
+    "slug": "cabezal-termostatico-inteligente",
+    "nombre": "Cabezal termostático inteligente para radiador",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Sustituye la rueda del radiador y lo programa por horarios desde el móvil.",
+    "porQue": "Calentar solo las habitaciones que usas, y solo cuando las usas, es de lo que más se nota en la factura de calefacción. Se monta sin fontanero.",
+    "pros": [
+      "Horarios por habitación",
+      "Se instala en minutos sin herramientas especiales",
+      "Detecta ventana abierta y corta la calefacción"
+    ],
+    "contras": [
+      "Comprueba que sea compatible con tu válvula",
+      "Algunos necesitan un hub o pasarela"
+    ],
+    "idealPara": "Casas con calefacción central o caldera y radiadores de agua.",
+    "enlace": "https://www.amazon.es/s?k=cabezal+termostatico+inteligente+radiador",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 37,
+    "slug": "regleta-inteligente-wifi",
+    "nombre": "Regleta inteligente wifi",
+    "marca": "Varias marcas",
+    "categoria": "casa-inteligente",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Regleta con enchufes que se encienden y apagan por separado desde el móvil o con la voz.",
+    "porQue": "Corta el consumo en espera de la tele, la consola o el router por la noche, y pone a horario lo que quieras sin comprar varios enchufes.",
+    "pros": [
+      "Cada enchufe se controla por separado",
+      "Puertos USB incluidos",
+      "Compatible con Alexa y Google"
+    ],
+    "contras": [
+      "Ocupa más que un enchufe suelto",
+      "Revisa la potencia máxima antes de conectar estufas"
+    ],
+    "idealPara": "El mueble de la tele o la mesa del ordenador.",
+    "enlace": "https://www.amazon.es/s?k=regleta+inteligente+wifi",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 38,
+    "slug": "humidificador-ultrasonico",
+    "nombre": "Humidificador ultrasónico",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "alergias"
+    ],
+    "resumen": "Añade humedad al aire cuando la calefacción lo deja seco.",
+    "porQue": "El aire seco irrita la garganta, la nariz y la piel, y empeora los resfriados. Un humidificador silencioso lo arregla, sobre todo en el dormitorio.",
+    "pros": [
+      "Muy silencioso, apto para dormir",
+      "Depósito para toda la noche",
+      "Algunos permiten añadir aromas"
+    ],
+    "contras": [
+      "Hay que limpiarlo cada pocos días",
+      "Con agua muy dura deja polvo blanco: mejor agua filtrada"
+    ],
+    "idealPara": "Dormitorios con calefacción y habitaciones de bebés.",
+    "enlace": "https://www.amazon.es/s?k=humidificador+ultrasonico+silencioso",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 39,
+    "slug": "medidor-co2-calidad-aire",
+    "nombre": "Medidor de CO2 y calidad del aire",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "alergias",
+      "humedad"
+    ],
+    "resumen": "Pantalla que te dice cuándo hay que ventilar midiendo el CO2, la temperatura y la humedad.",
+    "porQue": "Con las ventanas cerradas el aire se carga sin que te des cuenta y aparece el cansancio y el dolor de cabeza. Este medidor te avisa del momento justo para abrir.",
+    "pros": [
+      "Sensor NDIR de CO2, el fiable",
+      "También mide humedad y temperatura",
+      "Aviso de color fácil de entender"
+    ],
+    "contras": [
+      "Los muy baratos no miden CO2 real: busca sensor NDIR",
+      "Algunos necesitan estar enchufados"
+    ],
+    "idealPara": "Dormitorios, despachos en casa y habitaciones de niños.",
+    "enlace": "https://www.amazon.es/s?k=medidor+co2+ndir",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 40,
+    "slug": "calefactor-ceramico",
+    "nombre": "Calefactor cerámico de bajo consumo",
+    "marca": "Varias marcas",
+    "categoria": "aire",
+    "problemas": [
+      "ahorro"
+    ],
+    "resumen": "Calefactor pequeño que calienta una habitación en minutos con termostato.",
+    "porQue": "Para calentar solo la habitación en la que estás, sin encender toda la calefacción. Con termostato se para solo al llegar a la temperatura.",
+    "pros": [
+      "Calienta muy rápido",
+      "Termostato y modo eco",
+      "Apagado de seguridad si se vuelca"
+    ],
+    "contras": [
+      "Solo para estancias pequeñas o medianas",
+      "Gasta si lo dejas siempre encendido"
+    ],
+    "idealPara": "El baño por la mañana o el despacho en casa.",
+    "enlace": "https://www.amazon.es/s?k=calefactor+ceramico+bajo+consumo+termostato",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 41,
+    "slug": "detector-de-humo",
+    "nombre": "Detector de humo",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "Alarma que pita fuerte al detectar humo, con batería que dura años.",
+    "porQue": "La mayoría de incendios en casa empiezan de noche o en la cocina. Un detector avisa a tiempo de salir y cuesta muy poco.",
+    "pros": [
+      "Se pega o atornilla al techo en minutos",
+      "Baterías de 10 años en muchos modelos",
+      "Botón de prueba"
+    ],
+    "contras": [
+      "No pongas uno justo encima de los fuegos: salta al cocinar",
+      "Revisa la fecha de caducidad"
+    ],
+    "idealPara": "Pasillo, salón y cerca de los dormitorios.",
+    "enlace": "https://www.amazon.es/s?k=detector+de+humo+bateria+10+años",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 42,
+    "slug": "detector-monoxido-de-carbono",
+    "nombre": "Detector de monóxido de carbono",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "Avisa si hay monóxido, el gas que no huele y que sueltan calderas, estufas y braseros.",
+    "porQue": "El monóxido de carbono no se ve ni se huele y es muy peligroso. Si tienes caldera, calentador o estufa de gas o leña, es imprescindible.",
+    "pros": [
+      "Alarma muy sonora",
+      "Pantalla con el nivel en algunos modelos",
+      "Funciona a pilas, sin cables"
+    ],
+    "contras": [
+      "No detecta humo: es un aparato distinto",
+      "Hay que cambiarlo cuando caduca el sensor"
+    ],
+    "idealPara": "Casas con caldera o calentador de gas, chimenea o estufa.",
+    "enlace": "https://www.amazon.es/s?k=detector+monoxido+de+carbono",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 43,
+    "slug": "baliza-v16-conectada",
+    "nombre": "Luz de emergencia V16 conectada",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "La luz que sustituye a los triángulos: se pone en el techo del coche sin salir a la carretera.",
+    "porQue": "Desde 2026 la DGT exige la baliza V16 conectada en lugar de los triángulos. Se coloca desde la ventanilla y avisa de tu posición a la DGT.",
+    "pros": [
+      "No tienes que caminar por la carretera",
+      "Imán para el techo del coche",
+      "Conexión a la DGT incluida"
+    ],
+    "contras": [
+      "Comprueba que esté homologada y sea conectada",
+      "Revisa las pilas una vez al año"
+    ],
+    "idealPara": "Cualquier coche o moto que circule por España.",
+    "enlace": "https://www.amazon.es/s?k=baliza+v16+homologada+conectada+dgt",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 44,
+    "slug": "extintor-domestico",
+    "nombre": "Extintor doméstico",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "Extintor pequeño de polvo o espuma para apagar un fuego antes de que se extienda.",
+    "porQue": "Un fuego en la sartén o en un enchufe se apaga en segundos si tienes un extintor a mano. Ocupa poco y dura años.",
+    "pros": [
+      "Tamaño compacto para cocina o coche",
+      "Sirve para varios tipos de fuego",
+      "Con soporte para colgar"
+    ],
+    "contras": [
+      "Hay que revisarlo según indique el fabricante",
+      "No uses agua ni extintor de agua en aceite"
+    ],
+    "idealPara": "La cocina, el garaje y el maletero del coche.",
+    "enlace": "https://www.amazon.es/s?k=extintor+domestico+1+kg",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 45,
+    "slug": "tensiometro-de-brazo",
+    "nombre": "Tensiómetro digital de brazo",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "salud"
+    ],
+    "resumen": "Mide la tensión y el pulso en casa con un botón y guarda las mediciones.",
+    "porQue": "Controlar la tensión en casa es lo que suelen pedir los médicos. Los de brazo son más fiables que los de muñeca y muy fáciles de usar.",
+    "pros": [
+      "Un solo botón",
+      "Memoria para dos personas",
+      "Aviso de pulso irregular"
+    ],
+    "contras": [
+      "Elige bien la talla del manguito",
+      "No sustituye la consulta médica"
+    ],
+    "idealPara": "Personas mayores o quien tiene que controlarse la tensión.",
+    "enlace": "https://www.amazon.es/s?k=tensiometro+brazo+digital",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 46,
+    "slug": "botiquin-primeros-auxilios",
+    "nombre": "Botiquín de primeros auxilios",
+    "marca": "Varias marcas",
+    "categoria": "seguridad",
+    "problemas": [
+      "salud",
+      "seguridad"
+    ],
+    "resumen": "Bolsa compacta con lo necesario para cortes, quemaduras y golpes.",
+    "porQue": "Siempre falta una tirita o una venda cuando hace falta. Un botiquín completo en casa y otro en el coche te saca de apuros.",
+    "pros": [
+      "Todo ordenado en una bolsa",
+      "Tamaño para casa, coche o mochila",
+      "Fácil de reponer"
+    ],
+    "contras": [
+      "Añade tus medicamentos habituales",
+      "Revisa las caducidades cada año"
+    ],
+    "idealPara": "Casas con niños, el coche y las excursiones.",
+    "enlace": "https://www.amazon.es/s?k=botiquin+primeros+auxilios+completo",
+    "tipoEnlace": "busqueda",
+    "imagen": "",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
   }
 ]

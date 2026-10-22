@@ -41,6 +41,10 @@
   },
   {
     "slug": "seguridad",
-    "nombre": "Conducir con tranquilidad"
+    "nombre": "Seguridad en casa y en el coche"
+  },
+  {
+    "slug": "salud",
+    "nombre": "Cuidar la salud en casa"
   }
 ]

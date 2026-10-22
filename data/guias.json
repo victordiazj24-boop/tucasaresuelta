@@ -109,5 +109,21 @@
       6
     ],
     "fecha": "2026-10-21"
+  },
+  {
+    "ruta": "guias/casa-y-coche-seguros.html",
+    "titulo": "Casa y coche seguros: lo que no debería faltar",
+    "descripcion": "Detector de humo, detector de monóxido, extintor, botiquín, baliza V16 y alcoholímetro: seguridad básica por poco dinero.",
+    "intro": "Son productos baratos que esperas no usar nunca, pero el día que hacen falta marcan la diferencia. Con estos tienes cubierto lo básico en casa y en el coche.",
+    "productos": [
+      41,
+      42,
+      44,
+      46,
+      43,
+      34,
+      45
+    ],
+    "fecha": "2026-10-22"
   }
 ]
