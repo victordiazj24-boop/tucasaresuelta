@@ -25,7 +25,7 @@ Web de afiliados de Amazon generada a partir de unos pocos archivos de datos. No
 Reglas sencillas:
 - **`numero`** es el número que dirás en el vídeo ("el Nº 11"). Nunca lo reutilices.
 - Si pegas un enlace largo de amazon.es, el tag `casaresuelta-21` se añade solo. Los enlaces cortos de SiteStripe ya lo llevan.
-- Los productos del 11 al 33 llevan un enlace de **búsqueda** en Amazon (`"tipoEnlace": "busqueda"`) con tu tag ya puesto: funcionan y cobras comisión, pero convierten mejor si los cambias por el enlace exacto del producto que elijas en SiteStripe.
+- Cada producto es un **modelo concreto** con enlace directo (`https://www.amazon.es/dp/ASIN` o el enlace corto de SiteStripe). No uses enlaces de búsqueda ni productos genéricos.
 - Para que salga en la portada arriba, pon `"destacado": true`.
 - Cuando publiques el TikTok o el Short, pega su enlace en `videos.tiktok` / `videos.youtube` y vuelve a generar: aparecerá un botón en la ficha.
 - **Imagen (opcional):** usa la imagen que da SiteStripe (pestaña "Imagen") o una foto tuya en `src/img/` y escribe `"imagen": "assets/img/nombre.jpg"`. No descargues fotos de Amazon a mano: sus normas lo prohíben.

@@ -309,8 +309,8 @@
   {
     "numero": 11,
     "slug": "envasadora-al-vacio",
-    "nombre": "Envasadora al vacío",
-    "marca": "Varias marcas",
+    "nombre": "Envasadora al vacío Bastilipo EV50",
+    "marca": "Bastilipo",
     "categoria": "cocina",
     "problemas": [
       "comida",
@@ -328,8 +328,7 @@
       "Ocupa algo de sitio en un cajón"
     ],
     "idealPara": "Quien cocina para toda la semana o compra en cantidad.",
-    "enlace": "https://www.amazon.es/s?k=envasadora+al+vacio",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08BFHMW7G",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -341,8 +340,8 @@
   {
     "numero": 12,
     "slug": "picadora-electrica",
-    "nombre": "Picadora eléctrica de verduras",
-    "marca": "Varias marcas",
+    "nombre": "Picadora Moulinex Moulinette Essential",
+    "marca": "Moulinex",
     "categoria": "cocina",
     "problemas": [
       "cocinar-rapido"
@@ -359,8 +358,7 @@
       "Las cuchillas cortan mucho al lavarlas"
     ],
     "idealPara": "Quien cocina a diario y odia picar.",
-    "enlace": "https://www.amazon.es/s?k=picadora+electrica+cocina",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08G1RSDZJ",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -372,8 +370,8 @@
   {
     "numero": 13,
     "slug": "hervidor-de-agua-electrico",
-    "nombre": "Hervidor de agua eléctrico",
-    "marca": "Varias marcas",
+    "nombre": "Hervidor de agua Aigostar Milo 1,7 L",
+    "marca": "Aigostar",
     "categoria": "cocina",
     "problemas": [
       "ahorro",
@@ -391,8 +389,7 @@
       "Elige uno sin sabor a plástico, mejor de acero o cristal"
     ],
     "idealPara": "Bebedores de té y quien quiere ganar minutos al cocinar.",
-    "enlace": "https://www.amazon.es/s?k=hervidor+agua+electrico",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08741BCY7",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -404,8 +401,8 @@
   {
     "numero": 14,
     "slug": "termometro-de-cocina-digital",
-    "nombre": "Termómetro de cocina digital",
-    "marca": "Varias marcas",
+    "nombre": "Termómetro de cocina ThermoPro TP01H",
+    "marca": "ThermoPro",
     "categoria": "cocina",
     "problemas": [
       "cocinar-rapido"
@@ -422,8 +419,7 @@
       "Hay que limpiar la sonda después de cada uso"
     ],
     "idealPara": "Barbacoas, asados y repostería.",
-    "enlace": "https://www.amazon.es/s?k=termometro+cocina+digital",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B082Y114R5",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -435,8 +431,8 @@
   {
     "numero": 15,
     "slug": "botes-hermeticos-despensa",
-    "nombre": "Botes herméticos para despensa",
-    "marca": "Varias marcas",
+    "nombre": "Botes herméticos Vtopmart (set de 24)",
+    "marca": "Vtopmart",
     "categoria": "orden",
     "problemas": [
       "espacio",
@@ -454,8 +450,7 @@
       "Algunos juegos no van al lavavajillas"
     ],
     "idealPara": "Despensas desordenadas y familias que compran a granel.",
-    "enlace": "https://www.amazon.es/s?k=botes+hermeticos+despensa+set",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0967WM727",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -467,8 +462,8 @@
   {
     "numero": 16,
     "slug": "especiero-giratorio",
-    "nombre": "Especiero giratorio",
-    "marca": "Varias marcas",
+    "nombre": "Especiero giratorio Relaxdays (16 botes)",
+    "marca": "Relaxdays",
     "categoria": "orden",
     "problemas": [
       "espacio"
@@ -485,8 +480,7 @@
       "Ocupa un hueco en la encimera"
     ],
     "idealPara": "Cocinas con muchas especias sueltas.",
-    "enlace": "https://www.amazon.es/s?k=especiero+giratorio",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B09HQKM4DX",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -498,8 +492,8 @@
   {
     "numero": 17,
     "slug": "mopa-giratoria-con-cubo",
-    "nombre": "Mopa giratoria con cubo centrifugador",
-    "marca": "Varias marcas",
+    "nombre": "Fregona Vileda Turbo con cubo centrifugador",
+    "marca": "Vileda",
     "categoria": "limpieza",
     "problemas": [
       "polvo"
@@ -516,8 +510,7 @@
       "Las mechas de recambio conviene tenerlas a mano"
     ],
     "idealPara": "Casas con suelo de baldosa o con niños y mascotas.",
-    "enlace": "https://www.amazon.es/s?k=mopa+giratoria+cubo+centrifugador",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B01HTTQ6FC",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -529,8 +522,8 @@
   {
     "numero": 18,
     "slug": "aspiradora-escoba-sin-cable",
-    "nombre": "Aspiradora escoba sin cable",
-    "marca": "Varias marcas",
+    "nombre": "Aspiradora escoba Cecotec Conga Rockstar 1500",
+    "marca": "Cecotec",
     "categoria": "limpieza",
     "problemas": [
       "polvo"
@@ -547,8 +540,7 @@
       "Depósito pequeño, hay que vaciarlo a menudo"
     ],
     "idealPara": "Repasos diarios y casas con mascotas.",
-    "enlace": "https://www.amazon.es/s?k=aspiradora+escoba+sin+cable",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0BPYVF78G",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -560,8 +552,8 @@
   {
     "numero": 19,
     "slug": "limpiador-a-vapor",
-    "nombre": "Limpiador a vapor",
-    "marca": "Varias marcas",
+    "nombre": "Limpiadora a vapor Kärcher SC 2 EasyFix",
+    "marca": "Kärcher",
     "categoria": "limpieza",
     "problemas": [
       "grasa-cal"
@@ -578,8 +570,7 @@
       "No apto para madera sin sellar"
     ],
     "idealPara": "Baños y cocinas con cal y grasa.",
-    "enlace": "https://www.amazon.es/s?k=limpiador+vapor+mano",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0CGMCFD8C",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -591,8 +582,8 @@
   {
     "numero": 20,
     "slug": "cepillo-electrico-de-limpieza",
-    "nombre": "Cepillo eléctrico de limpieza",
-    "marca": "Varias marcas",
+    "nombre": "Cepillo eléctrico BLACK+DECKER Grimebuster Pro",
+    "marca": "BLACK+DECKER",
     "categoria": "limpieza",
     "problemas": [
       "grasa-cal"
@@ -609,8 +600,7 @@
       "Las salpicaduras obligan a ir con cuidado"
     ],
     "idealPara": "Quien odia frotar el baño.",
-    "enlace": "https://www.amazon.es/s?k=cepillo+electrico+limpieza+giratorio",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B074XFG355",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -622,8 +612,8 @@
   {
     "numero": 21,
     "slug": "panos-de-microfibra",
-    "nombre": "Paños de microfibra",
-    "marca": "Varias marcas",
+    "nombre": "Paños de microfibra Amazon Basics (24 uds)",
+    "marca": "Amazon Basics",
     "categoria": "limpieza",
     "problemas": [
       "cristales",
@@ -641,8 +631,7 @@
       "Separa los de cocina de los de baño"
     ],
     "idealPara": "Todo el mundo, de verdad.",
-    "enlace": "https://www.amazon.es/s?k=pa%C3%B1os+microfibra+limpieza+pack",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B009FUF6DM",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -654,8 +643,8 @@
   {
     "numero": 22,
     "slug": "quitapelos-de-mascotas-reutilizable",
-    "nombre": "Quitapelos de mascotas reutilizable",
-    "marca": "Varias marcas",
+    "nombre": "Quitapelos ChomChom Roller",
+    "marca": "ChomChom",
     "categoria": "limpieza",
     "problemas": [
       "ropa",
@@ -673,8 +662,7 @@
       "Hay que vaciarlo a menudo"
     ],
     "idealPara": "Casas con perros o gatos.",
-    "enlace": "https://www.amazon.es/s?k=quitapelos+mascotas+reutilizable",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0C2FMZMHP",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -686,8 +674,8 @@
   {
     "numero": 23,
     "slug": "cajas-de-almacenaje-bajo-cama",
-    "nombre": "Cajas de almacenaje bajo la cama",
-    "marca": "Varias marcas",
+    "nombre": "Cajas bajo la cama Lifewit (3 x 65 L)",
+    "marca": "Lifewit",
     "categoria": "orden",
     "problemas": [
       "espacio"
@@ -704,8 +692,7 @@
       "Las de tela se deforman si las llenas mucho"
     ],
     "idealPara": "Pisos pequeños y dormitorios sin armario grande.",
-    "enlace": "https://www.amazon.es/s?k=cajas+almacenaje+bajo+cama",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0BCVF3FQL",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -717,8 +704,8 @@
   {
     "numero": 24,
     "slug": "perchas-de-terciopelo",
-    "nombre": "Perchas de terciopelo antideslizantes",
-    "marca": "Varias marcas",
+    "nombre": "Perchas de terciopelo Amazon Basics (50 uds)",
+    "marca": "Amazon Basics",
     "categoria": "orden",
     "problemas": [
       "espacio",
@@ -736,8 +723,7 @@
       "Hay que comprar varias decenas"
     ],
     "idealPara": "Armarios llenos a reventar.",
-    "enlace": "https://www.amazon.es/s?k=perchas+terciopelo+antideslizantes",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0756D8W87",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -749,8 +735,8 @@
   {
     "numero": 25,
     "slug": "bolsas-de-vacio-para-ropa",
-    "nombre": "Bolsas de vacío para ropa",
-    "marca": "Varias marcas",
+    "nombre": "Bolsas de vacío Spacesaver Premium (10 uds)",
+    "marca": "Spacesaver",
     "categoria": "orden",
     "problemas": [
       "espacio"
@@ -767,8 +753,7 @@
       "La ropa sale arrugada"
     ],
     "idealPara": "Ropa de temporada y ropa de cama.",
-    "enlace": "https://www.amazon.es/s?k=bolsas+vacio+ropa",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07L6SC9ND",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -780,8 +765,8 @@
   {
     "numero": 26,
     "slug": "bombillas-inteligentes-wifi",
-    "nombre": "Bombillas inteligentes wifi",
-    "marca": "Varias marcas",
+    "nombre": "Bombillas inteligentes TP-Link Tapo L530E (2 uds)",
+    "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
     "problemas": [
       "ahorro"
@@ -798,8 +783,7 @@
       "Si apagas el interruptor de la pared, dejan de responder"
     ],
     "idealPara": "Empezar con la casa inteligente por la luz.",
-    "enlace": "https://www.amazon.es/s?k=bombilla+inteligente+wifi+e27",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08QRQQ53T",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -811,8 +795,8 @@
   {
     "numero": 27,
     "slug": "altavoz-inteligente-echo-dot",
-    "nombre": "Altavoz inteligente Echo Dot",
-    "marca": "Varias marcas",
+    "nombre": "Altavoz inteligente Echo Dot (5.ª generación)",
+    "marca": "Amazon",
     "categoria": "casa-inteligente",
     "problemas": [
       "ahorro"
@@ -829,8 +813,7 @@
       "El sonido no es de equipo de música"
     ],
     "idealPara": "Cocina y salón.",
-    "enlace": "https://www.amazon.es/s?k=echo+dot",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B09B8RF4PY",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -842,8 +825,8 @@
   {
     "numero": 28,
     "slug": "sensor-de-temperatura-y-humedad",
-    "nombre": "Sensor de temperatura y humedad",
-    "marca": "Varias marcas",
+    "nombre": "Termohigrómetro Xiaomi Temperature and Humidity Monitor 2",
+    "marca": "Xiaomi",
     "categoria": "casa-inteligente",
     "problemas": [
       "humedad"
@@ -853,15 +836,14 @@
     "pros": [
       "Sabes la humedad real",
       "Muy barato",
-      "Algunos guardan el historial en el móvil"
+      "Con la app Mi Home ves el historial en el móvil"
     ],
     "contras": [
-      "Funciona con pilas",
-      "Los más baratos son menos precisos"
+      "Funciona con una pila de botón",
+      "Va por Bluetooth: el historial se ve cerca de él"
     ],
     "idealPara": "Pisos con problemas de humedad.",
-    "enlace": "https://www.amazon.es/s?k=higrometro+termometro+digital+casa",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08C7KVDJW",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -873,8 +855,8 @@
   {
     "numero": 29,
     "slug": "absorbe-humedad-recargable",
-    "nombre": "Absorbe humedad recargable",
-    "marca": "Varias marcas",
+    "nombre": "Absorbe humedad Humydry Premium 1000 g",
+    "marca": "Humydry",
     "categoria": "aire",
     "problemas": [
       "humedad"
@@ -891,8 +873,7 @@
       "No vale para una habitación entera"
     ],
     "idealPara": "Armarios, trasteros y caravanas.",
-    "enlace": "https://www.amazon.es/s?k=absorbe+humedad+recargable",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B004OD0O64",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -904,8 +885,8 @@
   {
     "numero": 30,
     "slug": "difusor-de-aromas",
-    "nombre": "Difusor de aromas",
-    "marca": "Varias marcas",
+    "nombre": "Difusor de aromas ASAKUKI 500 ml",
+    "marca": "ASAKUKI",
     "categoria": "aire",
     "problemas": [
       "alergias"
@@ -922,8 +903,7 @@
       "No sustituye a ventilar"
     ],
     "idealPara": "Salones y dormitorios.",
-    "enlace": "https://www.amazon.es/s?k=difusor+aromas+humidificador",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B01MR4Y0CZ",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -935,8 +915,8 @@
   {
     "numero": 31,
     "slug": "tendedero-plegable",
-    "nombre": "Tendedero plegable",
-    "marca": "Varias marcas",
+    "nombre": "Tendedero plegable Leifheit Pegasus 120 Solid",
+    "marca": "Leifheit",
     "categoria": "orden",
     "problemas": [
       "humedad",
@@ -954,8 +934,7 @@
       "Elige uno con alas laterales"
     ],
     "idealPara": "Pisos sin terraza ni tendedero exterior.",
-    "enlace": "https://www.amazon.es/s?k=tendedero+plegable+alas",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07J57JW92",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -967,8 +946,8 @@
   {
     "numero": 32,
     "slug": "cubos-de-reciclaje",
-    "nombre": "Cubos de basura de reciclaje",
-    "marca": "Varias marcas",
+    "nombre": "Cubos de reciclaje apilables Tatay (set de 3)",
+    "marca": "Tatay",
     "categoria": "orden",
     "problemas": [
       "espacio"
@@ -985,8 +964,7 @@
       "Compartimentos pequeños en los modelos compactos"
     ],
     "idealPara": "Cocinas sin sitio para tres cubos.",
-    "enlace": "https://www.amazon.es/s?k=cubo+basura+reciclaje+compartimentos",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0D9D4W3WG",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -998,8 +976,8 @@
   {
     "numero": 33,
     "slug": "burlete-bajo-puerta",
-    "nombre": "Burlete bajo puerta",
-    "marca": "Varias marcas",
+    "nombre": "Burlete bajo puerta com-four de doble cara",
+    "marca": "com-four",
     "categoria": "aire",
     "problemas": [
       "ahorro"
@@ -1016,8 +994,7 @@
       "Mide el ancho de la puerta"
     ],
     "idealPara": "Puertas de entrada y habitaciones frías.",
-    "enlace": "https://www.amazon.es/s?k=burlete+bajo+puerta",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B00MURPAD8",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1061,8 +1038,8 @@
   {
     "numero": 35,
     "slug": "camara-wifi-interior",
-    "nombre": "Cámara wifi de interior",
-    "marca": "Varias marcas",
+    "nombre": "Cámara wifi TP-Link Tapo C200",
+    "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
     "problemas": [
       "seguridad"
@@ -1079,8 +1056,7 @@
       "Necesita wifi de 2,4 GHz en muchos modelos"
     ],
     "idealPara": "Vigilar la casa, mascotas o la habitación del bebé.",
-    "enlace": "https://www.amazon.es/s?k=camara+wifi+interior+360",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07XLML2YS",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1092,8 +1068,8 @@
   {
     "numero": 36,
     "slug": "cabezal-termostatico-inteligente",
-    "nombre": "Cabezal termostático inteligente para radiador",
-    "marca": "Varias marcas",
+    "nombre": "Cabezal termostático TP-Link Kasa KE100 (kit con hub)",
+    "marca": "TP-Link Kasa",
     "categoria": "casa-inteligente",
     "problemas": [
       "ahorro"
@@ -1107,11 +1083,10 @@
     ],
     "contras": [
       "Comprueba que sea compatible con tu válvula",
-      "Algunos necesitan un hub o pasarela"
+      "El kit incluye el hub; para más radiadores compra cabezales sueltos"
     ],
     "idealPara": "Casas con calefacción central o caldera y radiadores de agua.",
-    "enlace": "https://www.amazon.es/s?k=cabezal+termostatico+inteligente+radiador",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0BG5DWY74",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1123,8 +1098,8 @@
   {
     "numero": 37,
     "slug": "regleta-inteligente-wifi",
-    "nombre": "Regleta inteligente wifi",
-    "marca": "Varias marcas",
+    "nombre": "Regleta inteligente TP-Link Tapo P300",
+    "marca": "TP-Link Tapo",
     "categoria": "casa-inteligente",
     "problemas": [
       "ahorro"
@@ -1141,8 +1116,7 @@
       "Revisa la potencia máxima antes de conectar estufas"
     ],
     "idealPara": "El mueble de la tele o la mesa del ordenador.",
-    "enlace": "https://www.amazon.es/s?k=regleta+inteligente+wifi",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0BGSHS9FN",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1154,8 +1128,8 @@
   {
     "numero": 38,
     "slug": "humidificador-ultrasonico",
-    "nombre": "Humidificador ultrasónico",
-    "marca": "Varias marcas",
+    "nombre": "Humidificador Levoit Dual 100",
+    "marca": "Levoit",
     "categoria": "aire",
     "problemas": [
       "alergias"
@@ -1172,8 +1146,7 @@
       "Con agua muy dura deja polvo blanco: mejor agua filtrada"
     ],
     "idealPara": "Dormitorios con calefacción y habitaciones de bebés.",
-    "enlace": "https://www.amazon.es/s?k=humidificador+ultrasonico+silencioso",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07RTWM42G",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1185,8 +1158,8 @@
   {
     "numero": 39,
     "slug": "medidor-co2-calidad-aire",
-    "nombre": "Medidor de CO2 y calidad del aire",
-    "marca": "Varias marcas",
+    "nombre": "Medidor de CO2 INKBIRD IAQM-068",
+    "marca": "INKBIRD",
     "categoria": "aire",
     "problemas": [
       "alergias",
@@ -1200,12 +1173,11 @@
       "Aviso de color fácil de entender"
     ],
     "contras": [
-      "Los muy baratos no miden CO2 real: busca sensor NDIR",
-      "Algunos necesitan estar enchufados"
+      "Conviene calibrarlo al aire libre de vez en cuando",
+      "Mejor dejarlo enchufado si lo usas todo el día"
     ],
     "idealPara": "Dormitorios, despachos en casa y habitaciones de niños.",
-    "enlace": "https://www.amazon.es/s?k=medidor+co2+ndir",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0B5Z97J43",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1217,8 +1189,8 @@
   {
     "numero": 40,
     "slug": "calefactor-ceramico",
-    "nombre": "Calefactor cerámico de bajo consumo",
-    "marca": "Varias marcas",
+    "nombre": "Calefactor cerámico Cecotec Ready Warm 6100",
+    "marca": "Cecotec",
     "categoria": "aire",
     "problemas": [
       "ahorro"
@@ -1235,8 +1207,7 @@
       "Gasta si lo dejas siempre encendido"
     ],
     "idealPara": "El baño por la mañana o el despacho en casa.",
-    "enlace": "https://www.amazon.es/s?k=calefactor+ceramico+bajo+consumo+termostato",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07JNB3ZHX",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1248,8 +1219,8 @@
   {
     "numero": 41,
     "slug": "detector-de-humo",
-    "nombre": "Detector de humo",
-    "marca": "Varias marcas",
+    "nombre": "Detector de humo X-Sense SD13",
+    "marca": "X-Sense",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
@@ -1257,17 +1228,16 @@
     "resumen": "Alarma que pita fuerte al detectar humo, con batería que dura años.",
     "porQue": "La mayoría de incendios en casa empiezan de noche o en la cocina. Un detector avisa a tiempo de salir y cuesta muy poco.",
     "pros": [
-      "Se pega o atornilla al techo en minutos",
-      "Baterías de 10 años en muchos modelos",
-      "Botón de prueba"
+      "Se atornilla al techo en minutos",
+      "Batería sellada de 10 años",
+      "Botón de prueba y de silencio"
     ],
     "contras": [
       "No pongas uno justo encima de los fuegos: salta al cocinar",
       "Revisa la fecha de caducidad"
     ],
     "idealPara": "Pasillo, salón y cerca de los dormitorios.",
-    "enlace": "https://www.amazon.es/s?k=detector+de+humo+bateria+10+años",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07CWTS5FF",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1279,8 +1249,8 @@
   {
     "numero": 42,
     "slug": "detector-monoxido-de-carbono",
-    "nombre": "Detector de monóxido de carbono",
-    "marca": "Varias marcas",
+    "nombre": "Detector de monóxido X-Sense CO03B",
+    "marca": "X-Sense",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
@@ -1289,7 +1259,7 @@
     "porQue": "El monóxido de carbono no se ve ni se huele y es muy peligroso. Si tienes caldera, calentador o estufa de gas o leña, es imprescindible.",
     "pros": [
       "Alarma muy sonora",
-      "Pantalla con el nivel en algunos modelos",
+      "Pantalla con el nivel de CO",
       "Funciona a pilas, sin cables"
     ],
     "contras": [
@@ -1297,8 +1267,7 @@
       "Hay que cambiarlo cuando caduca el sensor"
     ],
     "idealPara": "Casas con caldera o calentador de gas, chimenea o estufa.",
-    "enlace": "https://www.amazon.es/s?k=detector+monoxido+de+carbono",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B08285N9DZ",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1310,8 +1279,8 @@
   {
     "numero": 43,
     "slug": "baliza-v16-conectada",
-    "nombre": "Luz de emergencia V16 conectada",
-    "marca": "Varias marcas",
+    "nombre": "Luz V16 conectada help flash IoT",
+    "marca": "help flash",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
@@ -1324,12 +1293,11 @@
       "Conexión a la DGT incluida"
     ],
     "contras": [
-      "Comprueba que esté homologada y sea conectada",
-      "Revisa las pilas una vez al año"
+      "Revisa la batería una vez al año",
+      "El plan de datos tiene una duración limitada: mira las condiciones"
     ],
     "idealPara": "Cualquier coche o moto que circule por España.",
-    "enlace": "https://www.amazon.es/s?k=baliza+v16+homologada+conectada+dgt",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B0BD4L3NYZ",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1341,17 +1309,17 @@
   {
     "numero": 44,
     "slug": "extintor-domestico",
-    "nombre": "Extintor doméstico",
-    "marca": "Varias marcas",
+    "nombre": "Extintor de polvo Smartwares 1 kg",
+    "marca": "Smartwares",
     "categoria": "seguridad",
     "problemas": [
       "seguridad"
     ],
-    "resumen": "Extintor pequeño de polvo o espuma para apagar un fuego antes de que se extienda.",
+    "resumen": "Extintor pequeño de polvo ABC para apagar un fuego antes de que se extienda.",
     "porQue": "Un fuego en la sartén o en un enchufe se apaga en segundos si tienes un extintor a mano. Ocupa poco y dura años.",
     "pros": [
       "Tamaño compacto para cocina o coche",
-      "Sirve para varios tipos de fuego",
+      "Polvo ABC: sirve para varios tipos de fuego",
       "Con soporte para colgar"
     ],
     "contras": [
@@ -1359,8 +1327,7 @@
       "No uses agua ni extintor de agua en aceite"
     ],
     "idealPara": "La cocina, el garaje y el maletero del coche.",
-    "enlace": "https://www.amazon.es/s?k=extintor+domestico+1+kg",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B076ZVGZ6J",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1372,8 +1339,8 @@
   {
     "numero": 45,
     "slug": "tensiometro-de-brazo",
-    "nombre": "Tensiómetro digital de brazo",
-    "marca": "Varias marcas",
+    "nombre": "Tensiómetro de brazo OMRON M2",
+    "marca": "OMRON",
     "categoria": "seguridad",
     "problemas": [
       "salud"
@@ -1390,8 +1357,7 @@
       "No sustituye la consulta médica"
     ],
     "idealPara": "Personas mayores o quien tiene que controlarse la tensión.",
-    "enlace": "https://www.amazon.es/s?k=tensiometro+brazo+digital",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B00IIOI9Q2",
     "imagen": "",
     "videos": {
       "tiktok": "",
@@ -1403,8 +1369,8 @@
   {
     "numero": 46,
     "slug": "botiquin-primeros-auxilios",
-    "nombre": "Botiquín de primeros auxilios",
-    "marca": "Varias marcas",
+    "nombre": "Botiquín Active Era Premium (120 piezas)",
+    "marca": "Active Era",
     "categoria": "seguridad",
     "problemas": [
       "salud",
@@ -1422,8 +1388,7 @@
       "Revisa las caducidades cada año"
     ],
     "idealPara": "Casas con niños, el coche y las excursiones.",
-    "enlace": "https://www.amazon.es/s?k=botiquin+primeros+auxilios+completo",
-    "tipoEnlace": "busqueda",
+    "enlace": "https://www.amazon.es/dp/B07GJNXY6M",
     "imagen": "",
     "videos": {
       "tiktok": "",
