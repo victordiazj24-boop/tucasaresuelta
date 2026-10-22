@@ -80,12 +80,29 @@
     "slug": "seguridad",
     "nombre": "Seguridad y salud",
     "icono": "seguridad",
-    "intro": "Pequeños aparatos que te ayudan a cuidarte a ti y a los tuyos, en casa y en el coche.",
-    "titulo": "Seguridad en casa y en el coche: detectores, V16 y más",
+    "intro": "Pequeños aparatos que te ayudan a cuidarte a ti y a los tuyos en casa: detectores, fuego y salud.",
+    "titulo": "Seguridad y salud en casa: detectores, manta ignífuga y más",
     "faq": [
       {
         "q": "¿Qué no puede faltar en casa?",
         "a": "Detector de humo, detector de monóxido si hay caldera o estufa de gas, un extintor pequeño en la cocina y un botiquín."
+      }
+    ]
+  },
+  {
+    "slug": "coche",
+    "nombre": "Coche",
+    "icono": "coche",
+    "intro": "Lo que conviene llevar en el coche: obligatorio, para viajar más cómodo y para tenerlo limpio y ordenado.",
+    "titulo": "Accesorios para el coche baratos y útiles: V16, compresor y más",
+    "faq": [
+      {
+        "q": "¿Qué es obligatorio llevar en el coche?",
+        "a": "Desde el 1 de enero de 2026 en España, la luz V16 conectada en lugar de los triángulos, además del chaleco reflectante. El extintor y el botiquín son muy recomendables."
+      },
+      {
+        "q": "¿Cada cuánto hay que revisar la presión de las ruedas?",
+        "a": "Una vez al mes y antes de cada viaje largo, con las ruedas en frío. La presión correcta suele venir en una pegatina en el marco de la puerta del conductor."
       }
     ]
   }

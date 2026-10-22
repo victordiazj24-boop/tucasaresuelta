@@ -263,11 +263,12 @@
     "productos": [
       41,
       42,
+      51,
       44,
       46,
+      52,
       43,
-      34,
-      45
+      34
     ],
     "fecha": "2026-10-22",
     "secciones": [
@@ -293,7 +294,8 @@
         "q": "¿Un alcoholímetro casero es fiable?",
         "a": "Es orientativo. Sirve para salir de dudas, pero no sustituye a un control oficial. Lo más seguro es no conducir si has bebido."
       }
-    ]
+    ],
+    "actualizada": "2026-10-22"
   },
   {
     "ruta": "guias/regalos-utiles-y-baratos-para-casa.html",
@@ -331,6 +333,42 @@
       {
         "q": "¿Llegará a tiempo para Navidad?",
         "a": "Depende del vendedor y del envío. En la página de Amazon de cada producto ves la fecha de entrega estimada antes de comprar."
+      }
+    ]
+  },
+  {
+    "ruta": "guias/coche-siempre-a-punto.html",
+    "titulo": "El coche siempre a punto: 7 accesorios baratos que merecen la pena",
+    "descripcion": "Luz V16, compresor, aspirador de mano, organizador de maletero, soporte de móvil, extintor y alcoholímetro: lo útil para el coche por poco dinero.",
+    "intro": "Con estos accesorios llevas lo obligatorio, viajas más tranquilo y mantienes el coche limpio y ordenado. Todos son baratos y muy bien valorados en Amazon.",
+    "productos": [
+      43,
+      50,
+      47,
+      49,
+      48,
+      44,
+      34
+    ],
+    "fecha": "2026-10-22",
+    "secciones": [
+      {
+        "titulo": "Lo primero: lo obligatorio y la seguridad",
+        "texto": "La luz V16 conectada es obligatoria en España desde 2026. Añade un extintor pequeño en el maletero y, si quieres salir de dudas antes de conducir, un alcoholímetro orientativo."
+      },
+      {
+        "titulo": "Para el día a día",
+        "texto": "Un compresor con pantalla para revisar las ruedas en casa, un aspirador de mano para las migas y la arena, un organizador para que la compra no vaya rodando por el maletero y un soporte para llevar el GPS a la vista."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Merece la pena un compresor portátil?",
+        "a": "Sí, si no tienes una gasolinera con máquina cerca. Las ruedas bajas gastan más combustible y se desgastan antes."
+      },
+      {
+        "q": "¿Es legal llevar el móvil en un soporte?",
+        "a": "Sí, siempre que esté fijo, no tape la visión y no lo manipules mientras conduces."
       }
     ]
   }

@@ -55,6 +55,7 @@ const ICONS = {
   orden: '<rect x="6" y="8" width="36" height="12" rx="2"/><rect x="6" y="28" width="16" height="12" rx="2"/><rect x="26" y="28" width="16" height="12" rx="2"/><path d="M20 14h8"/>',
   inteligente: '<rect x="12" y="6" width="24" height="36" rx="6"/><circle cx="20" cy="20" r="2"/><circle cx="28" cy="20" r="2"/><path d="M24 30v6"/><path d="M4 18a20 20 0 0 1 0 12M44 18a20 20 0 0 1 0 12"/>',
   seguridad: '<path d="M24 4 8 10v12c0 10 7 18 16 22 9-4 16-12 16-22V10L24 4z"/><path d="m17 24 5 5 9-10"/>',
+  coche: '<path d="M6 30v-6l5-11a4 4 0 0 1 3.6-2.4h18.8A4 4 0 0 1 37 13l5 11v6a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2z"/><path d="M6 24h36"/><circle cx="14" cy="32" r="4"/><circle cx="34" cy="32" r="4"/>',
 };
 const icon = (name) => `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name] || ICONS.orden}</svg>`;
 const SVG = {

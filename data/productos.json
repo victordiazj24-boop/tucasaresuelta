@@ -1125,8 +1125,9 @@
     "slug": "alcoholimetro-digital-camthom",
     "nombre": "Alcoholímetro digital Camthom",
     "marca": "Camthom",
-    "categoria": "seguridad",
+    "categoria": "coche",
     "problemas": [
+      "coche",
       "seguridad"
     ],
     "resumen": "Alcoholímetro de bolsillo barato, el más vendido en Amazon, con pantalla digital y carga por USB-C.",
@@ -1433,8 +1434,9 @@
     "slug": "luz-v16-conectada-sumex-con-geolocalizacion",
     "nombre": "Luz V16 conectada SUMEX con geolocalización",
     "marca": "SUMEX",
-    "categoria": "seguridad",
+    "categoria": "coche",
     "problemas": [
+      "coche",
       "seguridad"
     ],
     "resumen": "La luz que sustituye a los triángulos: se pone en el techo del coche sin salir a la carretera.",
@@ -1468,8 +1470,9 @@
     "slug": "extintor-de-polvo-smartwares-1-kg",
     "nombre": "Extintor de polvo Smartwares 1 kg",
     "marca": "Smartwares",
-    "categoria": "seguridad",
+    "categoria": "coche",
     "problemas": [
+      "coche",
       "seguridad"
     ],
     "resumen": "Extintor pequeño de polvo ABC para apagar un fuego antes de que se extienda.",
@@ -1565,5 +1568,219 @@
       "botiquin-primeros-auxilios"
     ],
     "imagenIlustrativa": true
+  },
+  {
+    "numero": 47,
+    "slug": "aspirador-de-mano-coche-servomaster-sm01",
+    "nombre": "Aspirador de mano para coche SERVOMASTER SM01",
+    "marca": "SERVOMASTER",
+    "categoria": "coche",
+    "problemas": [
+      "coche",
+      "polvo"
+    ],
+    "resumen": "Aspirador pequeño sin cable para migas, arena y pelos de los asientos y alfombrillas.",
+    "porQue": "Las migas, la arena de la playa y los pelos del perro se acumulan en el coche. Con un aspirador de mano lo limpias en cinco minutos sin ir a la gasolinera.",
+    "pros": [
+      "Sin cable, se carga por USB",
+      "Pequeño y ligero, cabe en la guantera",
+      "Boquillas para huecos entre asientos",
+      "Filtro lavable"
+    ],
+    "contras": [
+      "Potencia justa para suciedad muy incrustada",
+      "La batería da para una limpieza rápida, no para todo el coche a fondo"
+    ],
+    "idealPara": "Familias con niños, dueños de perros y quien va a la playa a menudo.",
+    "enlace": "https://link.amazon/B03OiB9tp",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 48,
+    "slug": "soporte-movil-coche-jeezao-anillo-magnetico",
+    "nombre": "Soporte de móvil para coche JEEZAO con anillo magnético (pack de 2)",
+    "marca": "JEEZAO",
+    "categoria": "coche",
+    "problemas": [
+      "coche"
+    ],
+    "resumen": "Anillo con imán que se pega al móvil y pinza para la rejilla del aire: el GPS siempre a la vista.",
+    "porQue": "Llevar el móvil suelto o en la mano mientras usas el GPS es peligroso y te pueden multar. Con este soporte lo dejas fijo en la rejilla y a la altura de los ojos.",
+    "pros": [
+      "Pack de 2: uno para cada coche o para casa",
+      "El anillo gira 360° y sirve de soporte en la mesa",
+      "Muy barato",
+      "Se pone y se quita en un segundo"
+    ],
+    "contras": [
+      "El anillo va pegado a la funda o al móvil",
+      "No apto para rejillas redondas muy finas"
+    ],
+    "idealPara": "Quien usa el GPS del móvil a diario o comparte coche.",
+    "enlace": "https://link.amazon/B0477mfdO",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 49,
+    "slug": "organizador-maletero-k-knodel",
+    "nombre": "Organizador de maletero plegable K KNODEL (negro)",
+    "marca": "K KNODEL",
+    "categoria": "coche",
+    "problemas": [
+      "coche",
+      "espacio"
+    ],
+    "resumen": "Caja con compartimentos para que la compra, el botiquín y las herramientas no vayan rodando por el maletero.",
+    "porQue": "Las bolsas de la compra se vuelcan en cada curva y nunca encuentras el chaleco o los cables. Un organizador plegable pone orden y se recoge cuando necesitas todo el maletero.",
+    "pros": [
+      "Compartimentos separados",
+      "Se pliega en plano cuando no lo usas",
+      "Base antideslizante",
+      "Muy bien valorado (4,8 estrellas)"
+    ],
+    "contras": [
+      "Mide tu maletero antes de comprar",
+      "Con mucho peso en un lado puede ceder si no está lleno"
+    ],
+    "idealPara": "Quien hace la compra en coche o lleva cosas de los niños o del deporte.",
+    "enlace": "https://link.amazon/B02jRnVQV",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 50,
+    "slug": "compresor-portatil-servomaster-sm02",
+    "nombre": "Compresor de aire portátil SERVOMASTER SM02 con pantalla",
+    "marca": "SERVOMASTER",
+    "categoria": "coche",
+    "problemas": [
+      "coche",
+      "ahorro"
+    ],
+    "resumen": "Inflador sin cable con pantalla: marcas la presión y se para solo cuando llega.",
+    "porQue": "Llevar las ruedas bajas gasta más gasolina y desgasta los neumáticos. Con este compresor revisas y ajustas la presión en casa, sin buscar la máquina de la gasolinera.",
+    "pros": [
+      "Pantalla con la presión exacta",
+      "Se para solo al llegar a la presión marcada",
+      "Sin cable, cabe en la guantera",
+      "Sirve también para bicis y balones"
+    ],
+    "contras": [
+      "Para varias ruedas seguidas, deja que descanse",
+      "Más lento que un compresor de taller"
+    ],
+    "idealPara": "Cualquier conductor, sobre todo antes de un viaje largo.",
+    "enlace": "https://link.amazon/B0hb8uVV4",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 51,
+    "slug": "manta-ignifuga-wucgea",
+    "nombre": "Manta ignífuga wucgea (modelo 023)",
+    "marca": "wucgea",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad"
+    ],
+    "resumen": "Manta de fibra de vidrio para apagar un fuego pequeño en la sartén en segundos.",
+    "porQue": "Un aceite que se prende en la sartén no se apaga con agua. La manta ignífuga ahoga el fuego tapándolo, y se cuelga en la pared de la cocina para tenerla a mano.",
+    "pros": [
+      "Se saca de la funda tirando de las cintas",
+      "Sirve para sartenes y fuegos pequeños",
+      "Muy barata",
+      "Se cuelga en la pared"
+    ],
+    "contras": [
+      "Solo para fuegos pequeños, no sustituye al extintor",
+      "Normalmente es de un solo uso"
+    ],
+    "idealPara": "Cualquier cocina, sobre todo si fríes en casa.",
+    "enlace": "https://link.amazon/B0cNgNv9s",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 52,
+    "slug": "luces-led-sensor-movimiento-vicloon",
+    "nombre": "Luces LED con sensor de movimiento Vicloon (pack de 3, USB)",
+    "marca": "Vicloon",
+    "categoria": "seguridad",
+    "problemas": [
+      "seguridad",
+      "ahorro"
+    ],
+    "resumen": "Luces recargables que se encienden solas al pasar: pasillo, escaleras y armarios sin tropezar.",
+    "porQue": "Levantarse de noche y buscar el interruptor a oscuras acaba en golpes, sobre todo para niños y mayores. Estas luces se encienden solas al detectar movimiento y se apagan al rato.",
+    "pros": [
+      "Pack de 3",
+      "Se cargan por USB, sin cables",
+      "Se pegan con imán o adhesivo",
+      "Se encienden solas y se apagan solas"
+    ],
+    "contras": [
+      "Luz suave, no ilumina una habitación entera",
+      "Hay que recargarlas cada cierto tiempo"
+    ],
+    "idealPara": "Pasillos, escaleras, armarios y casas con niños o personas mayores.",
+    "enlace": "https://link.amazon/B0hbFGYfc",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
+  },
+  {
+    "numero": 53,
+    "slug": "pulsioximetro-de-dedo-shyonda",
+    "nombre": "Pulsioxímetro de dedo Shyonda",
+    "marca": "Shyonda",
+    "categoria": "seguridad",
+    "problemas": [
+      "salud"
+    ],
+    "resumen": "Mide el oxígeno en sangre y el pulso en unos segundos poniéndolo en el dedo.",
+    "porQue": "Cuando alguien en casa tiene un resfriado fuerte, asma o problemas respiratorios, saber el oxígeno y el pulso da tranquilidad y ayuda a decidir si hace falta ir al médico.",
+    "pros": [
+      "Resultado en unos segundos",
+      "Pantalla fácil de leer",
+      "Pequeño, va con pilas",
+      "Muy barato"
+    ],
+    "contras": [
+      "Es orientativo: no sustituye la opinión del médico",
+      "El envío puede tardar más de una semana"
+    ],
+    "idealPara": "Botiquín de casa, personas mayores y quien tiene asma o problemas respiratorios.",
+    "enlace": "https://link.amazon/B04QeZ3Gq",
+    "videos": {
+      "tiktok": "",
+      "youtube": ""
+    },
+    "destacado": false,
+    "fecha": "2026-10-22"
   }
 ]

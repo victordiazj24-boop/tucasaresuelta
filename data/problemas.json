@@ -41,10 +41,14 @@
   },
   {
     "slug": "seguridad",
-    "nombre": "Seguridad en casa y en el coche"
+    "nombre": "Seguridad en casa"
   },
   {
     "slug": "salud",
     "nombre": "Cuidar la salud en casa"
+  },
+  {
+    "slug": "coche",
+    "nombre": "Todo listo en el coche"
   }
 ]
