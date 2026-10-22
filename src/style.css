@@ -114,7 +114,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .card { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); display: flex; flex-direction: column; overflow: hidden; transition: transform .18s, box-shadow .18s; }
 .card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
 .card-visual { position: relative; aspect-ratio: 16 / 10; max-width: 100%; background: var(--surface-2); display: grid; place-items: center; color: var(--accent); }
-.card-visual img { width: 100%; height: 100%; object-fit: contain; background: #fff; padding: 12px; }
+.card-visual img { width: 100%; height: 100%; object-fit: cover; }
 .ilus { position: absolute; bottom: 8px; right: 8px; font: 600 .7rem var(--f-mono); background: var(--surface); color: var(--muted); padding: 3px 6px; border-radius: 4px; }
 .card-visual svg { width: 34%; height: auto; opacity: .9; }
 .tag { position: absolute; top: 12px; left: 12px; font: 700 .85rem/1 var(--f-mono); background: var(--mark); color: var(--mark-ink); padding: 7px 10px 7px 14px; border-radius: 4px 8px 8px 4px; clip-path: polygon(8px 0, 100% 0, 100% 100%, 8px 100%, 0 50%); letter-spacing: .04em; }

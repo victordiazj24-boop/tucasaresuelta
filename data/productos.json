@@ -22,13 +22,14 @@
     ],
     "idealPara": "Quien quiere comer frito sin la grasa y sin encender el horno.",
     "enlace": "https://link.amazon/B04zRvT3R",
-    "imagen": "",
+    "imagen": "assets/img/freidora-de-aire-cosori.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "imagenIlustrativa": true
   },
   {
     "numero": 2,
@@ -53,13 +54,14 @@
     ],
     "idealPara": "Casas con mascotas o con poco tiempo para pasar la aspiradora.",
     "enlace": "https://link.amazon/B0aeiidnK",
-    "imagen": "",
+    "imagen": "assets/img/robot-aspirador-roborock.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": true,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "imagenIlustrativa": true
   },
   {
     "numero": 3,
@@ -83,13 +85,14 @@
     ],
     "idealPara": "Empezar con la casa inteligente sin gastar casi nada.",
     "enlace": "https://link.amazon/B07BCKJxA",
-    "imagen": "",
+    "imagen": "assets/img/enchufe-inteligente-tp-link-tapo.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
     },
     "destacado": false,
-    "fecha": "2026-09-25"
+    "fecha": "2026-09-25",
+    "imagenIlustrativa": true
   },
   {
     "numero": 4,
