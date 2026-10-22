@@ -1212,7 +1212,7 @@
     ],
     "idealPara": "El mueble de la tele o la mesa del ordenador.",
     "enlace": "https://www.amazon.es/dp/B0BGSHS9FN",
-    "imagen": "",
+    "imagen": "assets/img/regleta-inteligente-tp-link-tapo-p300.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1221,7 +1221,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "regleta-inteligente-wifi"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 38,
@@ -1245,7 +1246,7 @@
     ],
     "idealPara": "Dormitorios con calefacción y habitaciones de bebés.",
     "enlace": "https://link.amazon/B0abPkYa8",
-    "imagen": "",
+    "imagen": "assets/img/humidificador-levoit-dual-150.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1254,7 +1255,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "humidificador-ultrasonico"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 39,
@@ -1279,7 +1281,7 @@
     ],
     "idealPara": "Dormitorios, despachos en casa y habitaciones de niños.",
     "enlace": "https://link.amazon/B0hkC4bCf",
-    "imagen": "",
+    "imagen": "assets/img/medidor-de-co2-temtop-c1.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1288,7 +1290,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "medidor-co2-calidad-aire"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 40,
@@ -1312,7 +1315,7 @@
     ],
     "idealPara": "El baño por la mañana o el despacho en casa.",
     "enlace": "https://www.amazon.es/dp/B07JNB3ZHX",
-    "imagen": "",
+    "imagen": "assets/img/calefactor-ceramico-cecotec-ready-warm-6100.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1321,7 +1324,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "calefactor-ceramico"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 41,
@@ -1345,7 +1349,7 @@
     ],
     "idealPara": "Pasillo, salón y cerca de los dormitorios.",
     "enlace": "https://link.amazon/B0ftIl906",
-    "imagen": "",
+    "imagen": "assets/img/detector-de-humo-x-sense-con-bateria-de-10-anos.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1354,7 +1358,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "detector-de-humo"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 42,
@@ -1378,7 +1383,7 @@
     ],
     "idealPara": "Casas con caldera o calentador de gas, chimenea o estufa.",
     "enlace": "https://www.amazon.es/dp/B08285N9DZ",
-    "imagen": "",
+    "imagen": "assets/img/detector-de-monoxido-x-sense-co03b.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1387,7 +1392,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "detector-monoxido-de-carbono"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 43,
@@ -1412,7 +1418,7 @@
     ],
     "idealPara": "Cualquier coche o moto que circule por España.",
     "enlace": "https://www.amazon.es/dp/B0DBM4671C",
-    "imagen": "",
+    "imagen": "assets/img/luz-v16-conectada-sumex-con-geolocalizacion.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1421,7 +1427,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "baliza-v16-conectada"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 44,
@@ -1445,7 +1452,7 @@
     ],
     "idealPara": "La cocina, el garaje y el maletero del coche.",
     "enlace": "https://www.amazon.es/dp/B076ZVGZ6J",
-    "imagen": "",
+    "imagen": "assets/img/extintor-de-polvo-smartwares-1-kg.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1454,7 +1461,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "extintor-domestico"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 45,
@@ -1478,7 +1486,7 @@
     ],
     "idealPara": "Personas mayores o quien tiene que controlarse la tensión.",
     "enlace": "https://link.amazon/B01IDh7t2",
-    "imagen": "",
+    "imagen": "assets/img/tensiometro-de-brazo-omron-x2-essential.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1487,7 +1495,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "tensiometro-de-brazo"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 46,
@@ -1512,7 +1521,7 @@
     ],
     "idealPara": "Casas con niños, el coche y las excursiones.",
     "enlace": "https://www.amazon.es/dp/B07GJNXY6M",
-    "imagen": "",
+    "imagen": "assets/img/botiquin-active-era-premium.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1521,6 +1530,7 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "botiquin-primeros-auxilios"
-    ]
+    ],
+    "imagenIlustrativa": true
   }
 ]
