@@ -159,25 +159,9 @@ const add = (file, html) => pages.push([file, html]);
 
 function homeBody(base) {
   const featured = prods.filter((p) => p.destacado);
-  return `<section class="hero"><div class="wrap hero-grid">
-  <div>
-    <p class="eyebrow">${prods.length} productos · ${cats.length} categorías · actualizado ${new Date().toLocaleDateString("es-ES", { month: "long", year: "numeric" })}</p>
-    <h1>Lo que de verdad te <em>resuelve</em> la casa</h1>
-    <p class="hero-lead">${esc(cfg.descripcion)} Elige tu problema y te enseñamos qué funciona.</p>
-  </div>
-  <form class="numcard" id="numform" action="videos.html">
-    <label for="numinput">¿Lo has visto en un vídeo?</label>
-    <p class="numhint">Escribe el número que sale en el TikTok o el Short.</p>
-    <div class="numrow"><input id="numinput" name="n" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="Nº 07" autocomplete="off"><button type="submit">Ir</button></div>
-    <p class="numresult" id="numresult" aria-live="polite"></p>
-  </form>
-</div></section>
-
-<section class="problems"><div class="wrap">
-  <h2>¿Qué quieres resolver?</h2>
-  <div class="chips" id="probchips" role="group" aria-label="Filtrar por problema">
-    ${probs.filter((x) => prods.some((p) => p.problemas.includes(x.slug))).map((x) => `<button class="chip" type="button" aria-pressed="false" data-prob="${x.slug}">${esc(x.nombre)}<span class="count">${prods.filter((p) => p.problemas.includes(x.slug)).length}</span></button>`).join("\n    ")}
-  </div>
+  return `<section class="hero hero-compact"><div class="wrap">
+  <h1>Lo que de verdad te <em>resuelve</em> la casa</h1>
+  <p class="hero-lead">${prods.length} productos de Amazon para el hogar, elegidos por calidad-precio. Busca, filtra por problema o mira los destacados.</p>
 </div></section>
 
 <section class="catalog" id="catalogo"><div class="wrap">
@@ -191,6 +175,9 @@ function homeBody(base) {
     </select>
     <button class="toggle" type="button" id="onlyfav" aria-pressed="false">♥ Mis favoritos <span id="favcount"></span></button>
   </div>
+  <div class="problems"><h2>¿Qué quieres resolver?</h2><div class="chips" id="probchips" role="group" aria-label="Filtrar por problema">
+    ${probs.filter((x) => prods.some((p) => p.problemas.includes(x.slug))).map((x) => `<button class="chip" type="button" aria-pressed="false" data-prob="${x.slug}">${esc(x.nombre)}<span class="count">${prods.filter((p) => p.problemas.includes(x.slug)).length}</span></button>`).join("\n    ")}
+  </div></div>
   <div class="chips catchips" id="catchips" role="group" aria-label="Filtrar por categoría">
     <button class="chip" type="button" aria-pressed="true" data-cat="">Todo</button>
     ${cats.map((c) => `<button class="chip" type="button" aria-pressed="false" data-cat="${c.slug}">${esc(c.nombre)}</button>`).join("\n    ")}
@@ -200,6 +187,15 @@ function homeBody(base) {
 ${prods.map((p) => card(p, base)).join("\n")}
   </div>
   <p class="empty" id="empty" hidden>No hay productos con esos filtros. <button class="link" type="button" data-reset>Quitar filtros</button></p>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <form class="numcard" id="numform" action="videos.html">
+    <label for="numinput">¿Lo has visto en un vídeo?</label>
+    <p class="numhint">Escribe el número que sale en el TikTok o el Short.</p>
+    <div class="numrow"><input id="numinput" name="n" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="Nº 07" autocomplete="off"><button type="submit">Ir</button></div>
+    <p class="numresult" id="numresult" aria-live="polite"></p>
+  </form>
 </div></section>
 
 <section class="band"><div class="wrap">

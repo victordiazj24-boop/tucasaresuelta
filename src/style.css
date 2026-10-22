@@ -233,3 +233,16 @@ dialog::backdrop { background: rgb(20 12 8 / .55); backdrop-filter: blur(3px); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }
+
+/* Portada: productos nada más entrar */
+.hero-compact { padding-block: clamp(18px, 3vw, 32px) 0; }
+.hero-compact h1 { font-size: clamp(1.7rem, 4vw, 2.6rem); }
+.hero-compact .hero-lead { margin-top: 8px; font-size: 1rem; }
+.catalog .problems { padding: 0 0 4px; }
+.catalog .problems h2 { font-size: 1rem; margin-bottom: 8px; }
+#numform { max-width: 520px; }
+.catalog { padding-top: 12px; }
+.catalog .chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; margin-inline: -16px; padding-inline: 16px; scroll-padding-inline: 16px; }
+.catalog .chips::-webkit-scrollbar { display: none; }
+.catalog .chips .chip { flex: none; white-space: nowrap; }
+@media (min-width: 900px) { .catalog .chips { margin-inline: 0; padding-inline: 0; } }
