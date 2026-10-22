@@ -6,6 +6,8 @@ const path = require("path");
 
 const ROOT = __dirname;
 const OUT = path.join(ROOT, "dist");
+// Versión de style.css y app.js en la URL para que el navegador no use una copia vieja tras cada cambio
+const VER = require("crypto").createHash("md5").update(fs.readFileSync(path.join(ROOT, "src/style.css")) + fs.readFileSync(path.join(ROOT, "src/app.js"))).digest("hex").slice(0, 8);
 const read = (f) => JSON.parse(fs.readFileSync(path.join(ROOT, "data", f), "utf8"));
 
 const cfg = read("config.json");
@@ -112,7 +114,7 @@ ${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" hr
 <link rel="icon" href="${base}favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600;700&display=swap">
-<link rel="stylesheet" href="${base}assets/style.css">
+<link rel="stylesheet" href="${base}assets/style.css?v=${VER}">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}`;
   const content = `<a class="skip" href="#main">Saltar al contenido</a>
 <header class="top"><div class="wrap">
@@ -138,7 +140,7 @@ ${body}
   <p>© ${year} ${esc(cfg.nombre)} · tucasaresuelta.com</p>
 </div></footer>
 <script>window.CR_PRODUCTS=${JSON.stringify(prods.map((p) => ({ n: p.numero, s: p.slug, t: p.nombre, c: catOf(p.categoria).nombre, r: p.resumen, i: p.idealPara, pr: p.pros, co: p.contras, pb: (p.problemas || []).map(probName), u: amazonUrl(p) })))};window.CR_BASE=${JSON.stringify(base)};</script>
-<script src="${base}assets/app.js" defer></script>`;
+<script src="${base}assets/app.js?v=${VER}" defer></script>`;
   if (preview) return head + "\n" + content; // la vista previa la envuelve el visor
   return `<!doctype html>
 <html lang="es">
