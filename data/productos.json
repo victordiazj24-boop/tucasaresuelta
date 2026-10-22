@@ -946,7 +946,7 @@
     ],
     "idealPara": "Armarios, trasteros y caravanas.",
     "enlace": "https://www.amazon.es/dp/B004OD0O64",
-    "imagen": "",
+    "imagen": "assets/img/absorbe-humedad-humydry-premium-1000-g.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -955,7 +955,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "absorbe-humedad-recargable"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 30,
@@ -979,7 +980,7 @@
     ],
     "idealPara": "Salones y dormitorios.",
     "enlace": "https://link.amazon/B0aU5DxwD",
-    "imagen": "",
+    "imagen": "assets/img/difusor-cecotec-pure-aroma-300-yang.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -988,7 +989,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "difusor-de-aromas"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 31,
@@ -1013,7 +1015,7 @@
     ],
     "idealPara": "Pisos sin terraza ni tendedero exterior.",
     "enlace": "https://www.amazon.es/dp/B07J57JW92",
-    "imagen": "",
+    "imagen": "assets/img/tendedero-plegable-leifheit-pegasus-120-solid.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1022,7 +1024,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "tendedero-plegable"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 32,
@@ -1046,7 +1049,7 @@
     ],
     "idealPara": "Cocinas sin sitio para tres cubos.",
     "enlace": "https://link.amazon/B0idNzjWv",
-    "imagen": "",
+    "imagen": "assets/img/cubos-de-basura-apilables-songmics.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1055,7 +1058,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "cubos-de-reciclaje"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 33,
@@ -1079,7 +1083,7 @@
     ],
     "idealPara": "Puertas de entrada y habitaciones frías.",
     "enlace": "https://www.amazon.es/dp/B00MURPAD8",
-    "imagen": "",
+    "imagen": "assets/img/burlete-bajo-puerta-com-four-de-doble-cara.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1088,7 +1092,8 @@
     "fecha": "2026-10-21",
     "slugsAnteriores": [
       "burlete-bajo-puerta"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 34,
@@ -1113,7 +1118,7 @@
     ],
     "idealPara": "Quien conduce después de una comida o una cena y quiere salir de dudas antes de coger el coche.",
     "enlace": "https://www.amazon.es/dp/B0GSMZN54V",
-    "imagen": "",
+    "imagen": "assets/img/alcoholimetro-digital-camthom.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1122,7 +1127,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "alcoholimetro-camthom"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 35,
@@ -1146,7 +1152,7 @@
     ],
     "idealPara": "Vigilar la casa, mascotas o la habitación del bebé.",
     "enlace": "https://www.amazon.es/dp/B07XLML2YS",
-    "imagen": "",
+    "imagen": "assets/img/camara-wifi-tp-link-tapo-c200.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1155,7 +1161,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "camara-wifi-interior"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 36,
@@ -1179,7 +1186,7 @@
     ],
     "idealPara": "Casas con calefacción central o caldera y radiadores de agua.",
     "enlace": "https://www.amazon.es/dp/B0BG5DWY74",
-    "imagen": "",
+    "imagen": "assets/img/cabezal-termostatico-tp-link-kasa-ke100.webp",
     "videos": {
       "tiktok": "",
       "youtube": ""
@@ -1188,7 +1195,8 @@
     "fecha": "2026-10-22",
     "slugsAnteriores": [
       "cabezal-termostatico-inteligente"
-    ]
+    ],
+    "imagenIlustrativa": true
   },
   {
     "numero": 37,
