@@ -133,6 +133,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         e = marcas["p"][i + 1] if i + 1 < n else cta_t
         ev.append(f"Dialogue: 2,{ts(s)},{ts(e)},Badge,,0,0,0,,{pop}Nº {prod['n']} · {prod['nombre'].upper()}")
         ev.append(f"Dialogue: 2,{ts(s)},{ts(e)},Cuenta,,0,0,0,,{pop}{i + 1}/{n}")
+    if "flash" in marcas:
+        a, b = marcas["flash"]
+        ev.append(f"Dialogue: 3,{ts(a)},{ts(b)},Cta,,0,0,0,,{pop}LOS 4 ESTÁN EN\\NTUCASARESUELTA.COM")
     ev.append(f"Dialogue: 2,{ts(cta_t)},{ts(total)},Cta,,0,0,0,,{pop}ENLACES EN\\NTUCASARESUELTA.COM")
     with open(ruta, "w") as f:
         f.write(cab + "\n".join(ev) + "\n")
@@ -142,9 +145,9 @@ def plano(src, ini, dur, sal, zoom_in=True):
     """Recorta un plano del clip, lo pone en vertical a pantalla completa y le da un zoom suave."""
     z0, z1 = (1.0, 1.12) if zoom_in else (1.12, 1.0)
     zexpr = f"{z0}+({z1}-{z0})*t/{dur}"
-    vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+    vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},"
           f"scale=w='trunc({W}*({zexpr})/2)*2':h=-2:eval=frame,crop={W}:{H},"
-          f"fps={FPS},eq=contrast=1.06:saturation=1.18,format=yuv420p")
+          f"fps={FPS},eq=contrast=1.06:saturation=1.18,unsharp=5:5:0.6,format=yuv420p")
     run(["ffmpeg", "-y", "-ss", f"{ini:.3f}", "-t", f"{dur:.3f}", "-i", src, "-an", "-vf", vf,
          "-r", str(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", sal])
 
@@ -158,12 +161,15 @@ def sonido_whoosh(ruta):
 def montar(cat, carpeta_clips, salida, musica=None):
     guiones = json.load(open(os.path.join(AQUI, "guiones.json")))
     guion = guiones[cat]
-    voz = os.path.join(AQUI, f"voz_{cat}.mp3")
+    voz = os.environ.get("VOZ") or os.path.join(AQUI, f"voz_{cat}.mp3")
     web = os.path.join(AQUI, f"web_{cat}.mp4")
     total = duracion(voz) + 0.4
     palabras = alinear(guion["texto"], tramos_con_voz(voz))
     marcas = {"p": [buscar(palabras, p["dice"]) for p in guion["productos"]],
               "cta": buscar(palabras, "Todos los modelos")}
+    # El último plano del 2º producto se sustituye por un fogonazo de la web
+    a, b = marcas["p"][1], marcas["p"][2]
+    marcas["flash"] = (b - (b - a) / max(1, round((b - a) / SHOT)), b)
     tmp = tempfile.mkdtemp(prefix=f"montaje_{cat}_")
     ass(palabras, guion, marcas, total, os.path.join(tmp, "subs.ass"))
 
@@ -181,9 +187,18 @@ def montar(cat, carpeta_clips, salida, musica=None):
         n = max(1, round(largo / SHOT))
         d = largo / n
         for j in range(n):
+            if clave == "p1" and j == n - 1 and n > 1:
+                sal = os.path.join(tmp, f"plano_{len(planos):03d}.mp4")
+                run(["ffmpeg", "-y", "-ss", "2.0", "-t", f"{d:.3f}", "-i", web, "-an", "-vf",
+                     f"scale={W}:{H},fps={FPS},format=yuv420p,tpad=stop_mode=clone:stop_duration=5",
+                     "-t", f"{d:.3f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", sal])
+                planos.append(sal)
+                cortes_t.append(t_acum)
+                t_acum += d
+                continue
             src = os.path.join(clips_dir, fuentes[j % len(fuentes)])
             dsrc = duracion(src)
-            ini = 0.0 if dsrc <= d + 0.2 else rnd.uniform(0, dsrc - d - 0.1) if j >= len(fuentes) else min(0.5, dsrc - d - 0.1)
+            ini = 0.0 if dsrc <= d + 0.2 else rnd.uniform(0, dsrc - d - 0.1) if j >= len(fuentes) else min(dsrc * 0.3, dsrc - d - 0.1)
             sal = os.path.join(tmp, f"plano_{len(planos):03d}.mp4")
             plano(src, max(ini, 0), d, sal, zoom_in=(len(planos) % 2 == 0))
             planos.append(sal)

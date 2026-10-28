@@ -7,12 +7,13 @@ import json, os, sys, urllib.parse, urllib.request
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 POR_CLAVE = 3  # clips distintos por tramo
+UA = {"User-Agent": "Mozilla/5.0 (tucasaresuelta video builder)"}  # Pixabay rechaza el UA de urllib
 
 
 def api(q, key):
     url = "https://pixabay.com/api/videos/?" + urllib.parse.urlencode(
         {"key": key, "q": q, "per_page": 20, "safesearch": "true", "video_type": "film"})
-    with urllib.request.urlopen(url, timeout=30) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
         return json.load(r)["hits"]
 
 
@@ -42,7 +43,8 @@ def bajar(carpeta, cats, key):
                             continue
                         f = mejor_archivo(hit)
                         sal = os.path.join(destino, f"{clave}_{n + 1}.mp4")
-                        urllib.request.urlretrieve(f["url"], sal)
+                        with urllib.request.urlopen(urllib.request.Request(f["url"], headers=UA), timeout=120) as r, open(sal, "wb") as o:
+                            o.write(r.read())
                         usados.add(hit["id"])
                         cred.write(f"{clave}_{n + 1}.mp4\t{q}\t{hit['pageURL']}\t{hit['user']}\n")
                         n += 1
