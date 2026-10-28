@@ -1,0 +1,58 @@
+{
+ "cocina": {"gancho": "¿1 HORA AL DÍA EN LA COCINA?",
+  "texto": "¡Para! Si pasas más de una hora al día en la cocina, esto te interesa. Cuatro cosas baratas que te devuelven el tiempo. Número uno: la freidora de aire. Patatas y pollo crujientes, casi sin aceite y sin encender el horno. Número doce: la picadora. Cebolla y ajo picados en tres segundos… y sin llorar. Número trece: el hervidor eléctrico. Un litro de agua hirviendo antes de que la vitro se caliente. Y número catorce: el termómetro de cocina. Se acabó cortar la carne para ver si está hecha. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 1, "nombre": "Freidora de aire", "dice": "Número uno", "busquedas": ["air fryer", "air fryer french fries", "crispy chicken air fryer"]},
+   {"n": 12, "nombre": "Picadora", "dice": "Número doce", "busquedas": ["food chopper", "chopping onion", "food processor onion"]},
+   {"n": 13, "nombre": "Hervidor", "dice": "Número trece", "busquedas": ["electric kettle", "kettle boiling water", "pouring hot water tea"]},
+   {"n": 14, "nombre": "Termómetro de cocina", "dice": "Y número catorce", "busquedas": ["meat thermometer", "steak grill", "cooking steak"]}],
+  "intro_busquedas": ["tired woman kitchen", "cooking stress", "messy kitchen"]},
+ "limpieza": {"gancho": "¿LIMPIAR TE QUITA EL FINDE?",
+  "texto": "¿Limpiar te quita el fin de semana? Esto lo cambia. Número dos: el robot aspirador y friegasuelos. Aspira y friega mientras tú estás en el sofá. Número siete: el limpiacristales eléctrico. Aspira el agua y deja los cristales sin una sola marca. Número diecisiete: la fregona con cubo centrifugador. Escurres con el pie y no tocas el agua sucia. Y número seis: el quitapelusas. Tu jersey viejo, como nuevo en segundos. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 2, "nombre": "Robot aspirador", "dice": "Número dos", "busquedas": ["robot vacuum", "robot vacuum cleaner floor", "relaxing on sofa"]},
+   {"n": 7, "nombre": "Limpiacristales", "dice": "Número siete", "busquedas": ["window cleaning", "cleaning glass window squeegee", "clean window"]},
+   {"n": 17, "nombre": "Fregona con cubo", "dice": "Número diecisiete", "busquedas": ["mopping floor", "mop bucket", "cleaning floor mop"]},
+   {"n": 6, "nombre": "Quitapelusas", "dice": "Y número seis", "busquedas": ["lint remover sweater", "wool sweater", "folding sweater"]}],
+  "intro_busquedas": ["tired cleaning house", "woman cleaning house", "cleaning weekend"]},
+ "aire": {"gancho": "¿MOHO Y ROPA QUE NO SECA?",
+  "texto": "¿Moho en la pared y ropa que no se seca? Esto es para ti. Número diez: el deshumidificador. Saca litros de agua del aire y adiós al olor a humedad. Número veintinueve: el absorbe humedad. Para armarios y baños, sin enchufe. Número cinco: el purificador de aire. Polvo, polen y pelo de mascota fuera, y casi no se oye. Y número treinta y tres: el burlete para la puerta. Se acabaron las corrientes de aire frío. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 10, "nombre": "Deshumidificador", "dice": "Número diez", "busquedas": ["dehumidifier", "humidity window condensation", "damp wall"]},
+   {"n": 29, "nombre": "Absorbe humedad", "dice": "Número veintinueve", "busquedas": ["wardrobe clothes", "closet clothes hanging", "bathroom"]},
+   {"n": 5, "nombre": "Purificador de aire", "dice": "Número cinco", "busquedas": ["air purifier", "dust in sunlight", "dog on sofa"]},
+   {"n": 33, "nombre": "Burlete para puerta", "dice": "Y número treinta y tres", "busquedas": ["door draft", "cold winter home blanket", "closing door"]}],
+  "intro_busquedas": ["mold wall", "wet clothes drying indoor", "rain window"]},
+ "orden": {"gancho": "¿CASA PEQUEÑA O DESORDENADA?",
+  "texto": "¿Tu casa es pequeña… o es que no está ordenada? Cuatro trucos baratos. Número veinticinco: bolsas de vacío. El edredón se queda en un tercio de su tamaño. Número veintitrés: cajas bajo la cama. Espacio que ya tenías y no usabas. Número veinticuatro: perchas de terciopelo. La ropa no se cae y en el armario te cabe el doble. Y número quince: botes herméticos. La despensa ordenada y la pasta siempre fresca. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 25, "nombre": "Bolsas de vacío", "dice": "Número veinticinco", "busquedas": ["vacuum storage bag", "folding blanket", "duvet bed"]},
+   {"n": 23, "nombre": "Cajas bajo la cama", "dice": "Número veintitrés", "busquedas": ["under bed storage", "storage box", "making bed bedroom"]},
+   {"n": 24, "nombre": "Perchas de terciopelo", "dice": "Número veinticuatro", "busquedas": ["clothes hangers closet", "organized wardrobe", "hanging clothes"]},
+   {"n": 15, "nombre": "Botes herméticos", "dice": "Y número quince", "busquedas": ["pantry jars", "pouring pasta jar", "kitchen storage jars"]}],
+  "intro_busquedas": ["messy room", "messy closet", "small apartment"]},
+ "casa-inteligente": {"gancho": "TU CASA INTELIGENTE, BARATA",
+  "texto": "Tu casa puede ser inteligente por menos de lo que cuesta una cena. Mira. Número tres: el enchufe inteligente. Apaga la estufa desde el móvil aunque no estés en casa. Número veintiséis: bombillas wifi. Cambia la luz y el color con la voz. Número veintisiete: el Echo Dot. Música, temporizadores y todo el salón a una orden. Y el último es mi favorito. Número treinta y cinco: la cámara wifi. Mira a tu perro desde el trabajo. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 3, "nombre": "Enchufe inteligente", "dice": "Número tres", "busquedas": ["smart plug phone", "smartphone app home", "plug socket"]},
+   {"n": 26, "nombre": "Bombillas wifi", "dice": "Número veintiséis", "busquedas": ["smart light bulb color", "rgb lights living room", "light bulb"]},
+   {"n": 27, "nombre": "Echo Dot", "dice": "Número veintisiete", "busquedas": ["smart speaker", "voice assistant speaker", "music living room"]},
+   {"n": 35, "nombre": "Cámara wifi", "dice": "Número treinta y cinco", "busquedas": ["dog at home alone", "security camera home", "watching phone dog"]}],
+  "intro_busquedas": ["smart home phone", "smart home", "modern living room"]},
+ "seguridad": {"gancho": "ESTO PUEDE SALVARTE LA VIDA",
+  "texto": "Esto no lo tiene casi nadie en casa… y puede salvarte la vida. Número cuarenta y uno: detector de humo. Pita fuerte y su batería dura diez años. Número cuarenta y dos: detector de monóxido. El gas que no huele y que sueltan calderas y braseros. Número cincuenta y uno: la manta ignífuga. Fuego en la sartén, la tapas y se apaga en segundos. Y número cuarenta y seis: un botiquín completo. Cortes, quemaduras y golpes, todo en una bolsa. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 41, "nombre": "Detector de humo", "dice": "Número cuarenta y uno", "busquedas": ["smoke detector", "smoke alarm ceiling", "smoke"]},
+   {"n": 42, "nombre": "Detector de monóxido", "dice": "Número cuarenta y dos", "busquedas": ["gas boiler", "heater flame", "gas stove flame"]},
+   {"n": 51, "nombre": "Manta ignífuga", "dice": "Número cincuenta y uno", "busquedas": ["pan fire kitchen", "frying pan flame", "fire extinguish"]},
+   {"n": 46, "nombre": "Botiquín", "dice": "Y número cuarenta y seis", "busquedas": ["first aid kit", "bandage finger", "band aid"]}],
+  "intro_busquedas": ["fire alarm", "smoke house", "family home night"]},
+ "coche": {"gancho": "MIRA ESTO ANTES DE VIAJAR",
+  "texto": "Si tienes coche, mira esto antes de tu próximo viaje. Número cuarenta y tres: la luz V dieciséis conectada. Ya es obligatoria y sustituye a los triángulos. Número cincuenta: el compresor portátil. Marcas la presión y se para solo. Número cuarenta y siete: el aspirador de mano. Migas, arena y pelos fuera en un minuto. Y número cuarenta y ocho: el soporte magnético para el móvil. El GPS siempre a la vista. Todos los modelos, con su enlace, en tucasaresuelta punto com. Guárdalo para no perderlo.",
+  "productos": [
+   {"n": 43, "nombre": "Luz V16", "dice": "Número cuarenta y tres", "busquedas": ["car hazard lights night", "car breakdown road", "emergency light car"]},
+   {"n": 50, "nombre": "Compresor portátil", "dice": "Número cincuenta", "busquedas": ["tire inflator", "car tire pressure", "inflating tire"]},
+   {"n": 47, "nombre": "Aspirador de mano", "dice": "Número cuarenta y siete", "busquedas": ["car interior vacuum", "cleaning car interior", "car seats"]},
+   {"n": 48, "nombre": "Soporte de móvil", "dice": "Y número cuarenta y ocho", "busquedas": ["phone holder car gps", "car navigation phone", "driving car phone"]}],
+  "intro_busquedas": ["road trip car", "driving car highway", "car trunk packing"]}
+}
